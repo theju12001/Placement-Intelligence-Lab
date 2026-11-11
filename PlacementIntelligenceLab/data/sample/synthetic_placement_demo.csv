@@ -1,0 +1,1501 @@
+student_id,cgpa,ssc_percentage,hsc_percentage,aptitude_score,projects,internships,certifications,backlogs,household_income_band,parental_education,internet_access,gender,placed
+SYN00000,6.02,63.8,58.6,50.0,1,1,2,1,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00001,8.31,73.8,79.6,73.3,2,1,1,1,High,Graduate,Yes,Female,Placed
+SYN00002,6.51,80.6,58.4,58.8,0,0,4,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00003,5.63,59.9,68.9,40.0,1,1,1,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00004,6.78,81.7,71.6,66.1,2,2,2,1,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00005,8.56,90.4,82.2,71.9,2,3,3,0,Middle,Graduate,Yes,Male,Placed
+SYN00006,8.18,75.0,86.4,67.3,3,1,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00007,9.19,86.3,87.2,79.4,0,2,4,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00008,7.55,83.3,75.2,66.1,1,0,1,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00009,9.64,99.0,87.1,83.5,4,2,4,0,Middle,Graduate,Yes,Male,Placed
+SYN00010,6.54,62.2,62.5,76.8,3,0,2,0,Low,Below Graduate,No,Female,Placed
+SYN00011,6.63,75.5,66.2,78.4,2,0,3,1,Low,Graduate,Yes,Male,Not Placed
+SYN00012,5.92,63.4,76.4,53.8,2,1,1,0,Middle,Graduate,No,Male,Not Placed
+SYN00013,7.83,77.1,85.4,86.1,0,1,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00014,6.31,73.2,71.4,40.6,2,0,2,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00015,5.66,59.9,59.7,40.1,2,0,2,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00016,7.55,79.5,86.2,71.2,2,2,1,0,Low,Postgraduate,Yes,Male,Placed
+SYN00017,8.25,81.3,75.2,73.1,5,1,4,0,High,Below Graduate,Yes,Female,Placed
+SYN00018,7.99,78.1,68.9,70.7,2,1,3,1,Low,Below Graduate,No,Male,Placed
+SYN00019,6.32,68.7,63.5,41.2,0,0,1,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00020,7.07,66.7,83.5,69.8,2,1,1,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00021,6.91,83.4,84.3,78.7,1,2,2,1,Middle,Graduate,Yes,Female,Placed
+SYN00022,8.44,84.8,76.9,80.1,3,0,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00023,8.49,97.6,80.4,86.9,3,2,0,0,Middle,Graduate,No,Male,Placed
+SYN00024,7.8,76.4,64.7,66.1,1,1,2,1,Middle,Below Graduate,Yes,Male,Placed
+SYN00025,8.87,84.5,86.3,74.1,4,1,3,0,Low,,No,Female,Placed
+SYN00026,7.26,90.9,79.4,70.5,3,0,0,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00027,6.83,67.9,74.5,76.4,1,1,2,1,Lower-Middle,Graduate,No,Female,Placed
+SYN00028,7.19,77.6,82.5,65.9,2,3,3,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00029,8.57,91.2,83.6,74.7,3,1,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00030,8.54,81.8,90.8,91.9,2,1,3,0,Lower-Middle,Graduate,No,Male,Placed
+SYN00031,8.24,85.8,74.9,83.6,2,1,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN00032,6.58,78.1,76.1,52.7,2,0,0,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00033,6.97,80.3,67.4,55.3,0,2,0,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00034,7.78,81.9,77.6,61.8,0,1,3,0,Low,Postgraduate,Yes,Male,Placed
+SYN00035,9.07,95.6,88.3,79.0,3,1,3,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00036,7.29,78.4,77.5,74.7,0,0,3,1,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00037,7.58,72.9,81.2,57.8,1,1,1,0,Middle,Below Graduate,No,Male,Placed
+SYN00038,7.37,88.7,63.8,70.4,0,2,3,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00039,7.48,61.4,61.7,57.3,0,0,0,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00040,6.43,65.7,70.5,79.2,2,2,1,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00041,6.79,77.7,62.9,64.4,1,1,2,1,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00042,9.89,96.7,82.3,78.0,2,1,3,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00043,6.66,71.2,65.6,62.5,0,0,4,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00044,6.28,79.6,80.1,57.5,1,2,1,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00045,6.04,54.3,65.2,34.3,2,0,0,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00046,6.48,75.9,83.6,65.7,2,0,1,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00047,8.5,74.1,85.3,72.7,3,2,1,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00048,8.91,90.9,80.7,63.5,3,1,5,0,Lower-Middle,Postgraduate,No,Male,Not Placed
+SYN00049,6.85,65.5,73.7,61.6,1,0,3,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00050,7.31,68.9,79.3,47.7,0,2,3,0,Low,Graduate,Yes,Female,Placed
+SYN00051,7.36,75.1,77.7,55.2,1,2,1,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00052,6.77,83.8,74.6,68.0,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00053,6.77,74.8,63.0,64.3,1,0,2,1,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00054,7.03,77.1,60.5,56.9,0,0,1,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00055,6.95,78.7,71.4,60.7,2,1,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00056,7.59,79.1,63.2,57.9,4,0,1,1,High,Graduate,Yes,Male,Not Placed
+SYN00057,6.33,65.5,81.7,56.9,1,2,1,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00058,7.04,75.8,74.3,57.9,1,2,2,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00059,8.71,92.9,83.1,70.7,1,1,1,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN00060,10.0,99.0,89.3,92.2,4,2,3,0,High,Graduate,No,Male,Placed
+SYN00061,6.17,66.6,69.4,49.1,2,2,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00062,6.2,58.5,56.3,44.6,2,2,1,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00063,5.73,72.1,59.3,71.3,3,2,0,0,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00064,7.37,74.8,67.8,57.6,1,0,2,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00065,7.74,77.5,79.1,67.3,2,1,1,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00066,7.46,75.0,78.8,62.7,4,1,2,0,Low,Below Graduate,No,Male,Placed
+SYN00067,7.63,69.2,79.1,53.2,2,0,3,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00068,7.23,82.8,82.2,,0,2,0,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00069,7.15,60.4,66.9,46.2,2,2,4,1,Middle,Graduate,Yes,Female,Placed
+SYN00070,7.51,65.3,75.9,52.2,1,0,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00071,7.48,72.3,67.9,54.9,3,1,2,0,Middle,Postgraduate,No,Female,Placed
+SYN00072,5.29,71.4,47.9,33.7,1,0,0,1,Middle,Graduate,Yes,Male,Not Placed
+SYN00073,5.21,72.6,59.9,31.5,0,1,3,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00074,6.48,53.2,55.8,43.5,1,0,1,0,Low,Graduate,No,Female,Not Placed
+SYN00075,7.82,87.4,73.2,76.3,2,2,2,1,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00076,7.13,85.7,69.3,64.5,2,1,1,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00077,8.32,73.4,75.5,80.8,3,0,2,2,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00078,5.28,47.0,64.1,46.5,2,0,1,1,High,Graduate,Yes,Male,Not Placed
+SYN00079,5.71,63.3,72.9,48.4,1,0,1,2,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00080,8.07,87.6,67.7,84.2,2,1,2,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00081,4.5,60.5,40.6,28.6,1,0,0,2,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00082,8.13,77.8,75.9,74.0,5,0,1,1,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00083,5.93,69.1,61.6,39.8,2,0,0,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00084,8.01,67.8,77.8,83.2,2,0,3,0,Middle,Graduate,Yes,Female,Placed
+SYN00085,7.08,67.5,63.0,50.2,2,0,2,0,High,Graduate,Yes,Female,Not Placed
+SYN00086,8.53,79.1,84.2,65.7,2,1,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00087,10.0,99.0,99.0,100.0,3,1,3,0,Middle,Graduate,No,Male,Placed
+SYN00088,4.5,62.8,52.9,27.6,3,1,1,3,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00089,7.13,83.3,70.3,72.5,1,0,2,0,Low,Graduate,No,Male,Not Placed
+SYN00090,5.72,49.4,57.3,43.8,2,0,0,3,Low,Graduate,Yes,Female,Not Placed
+SYN00091,6.69,80.6,71.9,63.0,2,0,2,2,Low,Graduate,Yes,Male,Not Placed
+SYN00092,6.99,78.2,71.6,62.8,0,2,1,3,High,Postgraduate,Yes,Female,Not Placed
+SYN00093,7.35,64.2,68.9,48.0,1,1,1,2,Lower-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00094,7.08,55.9,72.3,51.4,1,2,1,3,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00095,7.6,86.9,80.3,64.4,3,0,2,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00096,5.41,59.3,65.1,,1,0,0,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN00097,8.09,74.2,88.6,75.1,1,1,1,0,Low,Below Graduate,Yes,Female,Placed
+SYN00098,7.03,71.1,73.3,50.1,3,0,3,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00099,5.75,64.2,56.7,32.2,2,0,0,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00100,9.15,87.9,93.1,89.3,4,3,2,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00101,6.58,62.1,72.5,56.1,2,0,0,0,Low,Below Graduate,No,Male,Not Placed
+SYN00102,8.93,99.0,99.0,73.9,3,1,1,0,Middle,Postgraduate,No,Female,Placed
+SYN00103,8.54,91.4,85.4,76.5,3,0,2,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00104,6.18,64.8,69.3,57.1,1,0,0,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00105,7.38,70.7,72.4,64.8,2,0,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00106,7.5,79.9,75.1,61.5,1,1,3,0,High,Graduate,Yes,Female,Not Placed
+SYN00107,8.81,78.6,81.7,78.2,1,1,3,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00108,7.56,78.6,76.6,66.9,2,1,3,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00109,7.41,66.6,76.0,65.0,1,0,0,0,Lower-Middle,Postgraduate,No,Male,Not Placed
+SYN00110,6.62,71.2,77.1,61.6,1,0,1,1,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00111,6.83,67.0,74.0,69.3,2,1,2,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00112,8.89,78.1,79.8,74.9,4,0,3,0,Middle,Graduate,Yes,Female,Placed
+SYN00113,7.37,83.1,69.1,52.7,1,1,4,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00114,6.42,72.8,61.8,54.4,1,1,3,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00115,6.65,69.9,77.5,60.6,0,0,3,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00116,5.43,55.5,62.1,37.8,0,1,5,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00117,5.64,59.6,67.5,28.6,0,0,1,2,Middle,Graduate,Yes,Male,Not Placed
+SYN00118,7.08,73.6,70.6,60.0,1,2,1,0,High,Graduate,Yes,Female,Placed
+SYN00119,8.29,85.2,84.0,90.2,3,1,3,0,Low,Below Graduate,Yes,Male,Placed
+SYN00120,6.95,58.6,68.8,46.3,2,1,1,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00121,6.44,81.3,72.9,,1,2,2,1,Middle,Below Graduate,No,Male,Not Placed
+SYN00122,4.83,58.0,47.5,29.1,2,0,0,1,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00123,7.66,84.2,85.8,63.9,3,0,1,0,Low,Below Graduate,No,Female,Placed
+SYN00124,7.14,68.0,70.6,,1,2,1,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00125,7.16,57.1,75.9,43.1,3,2,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00126,7.15,68.7,81.6,52.0,2,0,3,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00127,6.48,61.5,63.4,51.8,1,0,0,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN00128,4.5,59.4,55.8,35.3,1,1,3,2,Low,Graduate,Yes,Female,Not Placed
+SYN00129,7.82,64.3,78.9,60.0,2,1,2,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00130,6.73,72.5,65.6,69.8,2,1,2,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00131,6.13,81.6,69.9,52.8,2,2,0,1,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00132,5.8,66.7,68.5,45.6,1,0,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00133,6.52,68.0,57.4,46.4,0,1,2,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00134,7.4,68.7,74.5,61.3,2,1,2,0,High,Postgraduate,Yes,Male,Placed
+SYN00135,8.63,76.5,83.0,85.3,2,0,2,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00136,7.03,83.4,86.6,53.8,3,0,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00137,5.19,65.1,50.6,32.2,1,0,0,1,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00138,7.7,75.6,76.3,59.7,1,2,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00139,6.13,67.3,70.3,,3,2,3,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00140,7.69,81.9,75.1,58.3,2,2,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00141,7.52,70.0,73.0,54.2,2,1,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN00142,4.5,56.4,51.7,28.8,0,0,2,1,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00143,7.24,93.9,80.3,59.2,4,1,0,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00144,5.27,66.9,63.2,35.9,0,1,0,1,Low,Graduate,Yes,Male,Not Placed
+SYN00145,5.44,58.0,66.9,53.0,1,1,3,1,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00146,6.57,56.5,77.9,52.2,0,0,2,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00147,7.26,68.8,82.2,74.9,3,1,2,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00148,6.2,71.8,56.9,42.2,0,0,1,0,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00149,7.33,75.1,82.5,70.4,1,2,1,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00150,7.9,77.1,80.6,66.5,1,2,2,1,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00151,7.19,77.5,66.3,36.6,2,0,2,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00152,6.73,75.2,54.1,40.2,0,2,1,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00153,6.06,63.0,49.0,48.1,0,1,0,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00154,8.6,82.6,83.5,74.6,3,2,2,0,High,Below Graduate,Yes,Female,Placed
+SYN00155,5.64,61.5,61.0,27.3,0,1,0,2,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00156,8.23,77.9,72.0,71.2,3,2,1,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00157,6.41,70.8,79.1,48.1,3,1,3,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00158,5.81,74.9,71.4,61.1,1,0,4,1,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00159,5.63,59.4,65.1,41.0,2,0,3,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00160,7.06,83.6,71.2,65.1,1,1,2,1,Low,Postgraduate,No,Female,Not Placed
+SYN00161,7.93,81.9,70.4,76.4,4,1,1,0,Middle,Postgraduate,No,Male,Placed
+SYN00162,5.8,71.8,65.9,49.4,0,1,1,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00163,8.2,70.8,79.5,73.2,0,1,2,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00164,7.11,79.5,70.8,57.8,2,1,1,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00165,6.85,66.1,59.1,78.3,3,0,3,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00166,8.28,84.8,81.1,58.4,3,1,0,1,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00167,5.87,59.7,47.1,31.0,0,0,0,1,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00168,7.17,75.1,80.1,71.9,2,0,3,2,Low,Below Graduate,No,Female,Not Placed
+SYN00169,8.4,99.0,83.9,84.6,3,1,1,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00170,7.7,93.3,93.9,80.2,2,0,2,0,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00171,8.21,84.6,61.7,70.4,5,1,3,0,Middle,Graduate,Yes,Male,Placed
+SYN00172,7.08,76.6,70.9,37.9,1,2,3,0,Middle,Graduate,Yes,Female,Placed
+SYN00173,6.63,77.5,74.2,67.3,2,0,0,1,Low,Postgraduate,Yes,Male,Placed
+SYN00174,8.37,64.6,65.4,54.8,2,2,0,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00175,7.96,89.4,78.1,77.2,1,4,1,0,High,Below Graduate,Yes,Female,Placed
+SYN00176,5.85,62.0,63.3,32.8,1,2,0,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00177,7.67,75.9,72.8,70.6,3,1,0,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00178,8.72,96.0,92.3,78.4,3,2,1,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00179,6.93,81.3,63.5,64.5,2,0,3,1,Middle,Graduate,No,Male,Not Placed
+SYN00180,5.77,56.7,60.9,48.1,0,0,1,0,Middle,Postgraduate,No,Male,Not Placed
+SYN00181,5.77,61.8,66.2,48.5,2,1,1,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00182,7.23,81.2,77.2,59.0,2,2,1,0,Middle,Graduate,No,Male,Placed
+SYN00183,7.74,71.6,64.2,58.8,1,2,2,1,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00184,7.92,84.1,83.7,68.0,2,0,4,0,Low,Below Graduate,No,Male,Placed
+SYN00185,6.5,89.5,71.7,58.6,1,1,0,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00186,8.25,83.6,72.3,78.0,1,1,4,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00187,7.23,68.7,62.7,59.6,1,1,2,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00188,6.62,60.8,60.4,40.5,1,1,1,1,Middle,Below Graduate,No,Male,Not Placed
+SYN00189,7.03,68.0,71.5,56.6,4,0,2,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00190,6.22,60.4,65.8,70.3,2,1,2,1,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00191,9.33,94.3,94.7,96.7,2,2,5,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN00192,7.33,75.1,68.3,32.2,4,0,2,1,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00193,7.81,76.8,71.5,67.7,1,2,2,0,Middle,Graduate,No,Male,Placed
+SYN00194,6.58,82.0,74.1,62.5,1,2,1,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00195,6.9,61.6,60.4,46.8,2,1,2,2,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00196,6.57,69.4,69.3,53.3,0,0,0,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00197,8.41,88.2,72.3,69.7,2,2,2,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00198,7.04,78.0,66.9,59.2,1,0,5,0,High,Below Graduate,Yes,Female,Not Placed
+SYN00199,6.1,75.1,72.0,40.1,1,1,0,1,Middle,,No,Female,Not Placed
+SYN00200,7.02,79.4,70.2,72.4,2,0,2,0,Upper-Middle,Graduate,No,Male,Placed
+SYN00201,7.61,87.1,84.1,65.0,2,2,2,0,High,Postgraduate,Yes,Male,Placed
+SYN00202,8.34,82.4,69.2,69.7,2,2,2,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00203,6.82,82.7,71.6,74.0,3,2,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00204,7.37,83.8,75.2,53.2,2,2,2,1,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00205,8.09,91.6,91.9,62.9,2,1,2,0,High,Graduate,Yes,Female,Placed
+SYN00206,6.53,52.8,53.2,42.2,1,0,2,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN00207,6.46,60.1,67.9,68.7,3,2,1,1,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00208,5.09,71.9,71.8,41.9,1,1,4,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00209,6.17,46.6,55.9,26.0,0,0,1,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00210,7.7,84.9,77.5,63.5,0,2,3,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00211,7.54,81.9,74.4,67.3,0,1,1,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00212,7.39,74.0,65.8,67.9,1,3,3,0,High,Postgraduate,Yes,Female,Placed
+SYN00213,4.82,52.3,49.9,52.0,0,1,1,2,Upper-Middle,Graduate,No,Male,Not Placed
+SYN00214,8.88,83.2,95.9,95.3,2,1,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00215,6.35,64.1,68.6,51.9,2,2,0,2,Middle,Graduate,Yes,Male,Placed
+SYN00216,9.53,86.7,86.6,74.5,2,0,2,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00217,5.85,58.7,61.5,58.7,0,0,3,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00218,6.92,63.5,69.7,47.7,2,0,0,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00219,5.68,56.4,61.0,29.8,2,0,2,2,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00220,7.63,73.2,69.3,60.2,1,1,1,0,Low,Below Graduate,Yes,Female,Placed
+SYN00221,5.28,75.6,72.4,36.6,1,0,2,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00222,6.7,63.5,72.4,44.0,0,1,0,2,Middle,Graduate,Yes,Male,Not Placed
+SYN00223,5.72,65.5,65.8,42.8,0,1,0,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00224,8.18,77.2,73.1,75.1,1,2,1,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00225,7.2,74.2,69.1,64.3,3,1,1,1,Low,Graduate,Yes,Male,Placed
+SYN00226,8.18,77.5,83.6,68.5,2,1,3,0,Lower-Middle,Graduate,No,Female,Placed
+SYN00227,7.51,60.7,68.5,38.0,0,1,2,1,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00228,6.77,66.5,60.3,64.3,2,1,0,0,Low,Graduate,No,Male,Placed
+SYN00229,6.44,64.0,64.1,46.5,1,0,1,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00230,7.07,80.6,80.5,51.3,1,1,0,1,High,Graduate,Yes,Female,Not Placed
+SYN00231,6.34,57.1,69.6,50.1,4,0,2,1,Low,Below Graduate,No,Female,Not Placed
+SYN00232,7.56,74.8,71.7,68.6,2,1,3,0,Middle,Graduate,Yes,Male,Placed
+SYN00233,7.41,73.1,74.2,83.7,2,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00234,8.13,81.9,83.5,63.9,2,1,2,0,Upper-Middle,Below Graduate,No,Male,Not Placed
+SYN00235,5.91,74.1,64.7,51.5,2,1,3,1,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00236,7.96,80.9,84.5,79.6,3,1,2,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00237,7.46,72.6,74.8,52.5,3,1,1,1,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00238,6.98,80.5,76.9,56.3,1,1,2,2,Middle,Below Graduate,Yes,Female,Placed
+SYN00239,5.86,71.5,59.4,51.9,2,2,0,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00240,6.96,64.2,68.2,42.0,2,1,1,2,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00241,8.64,88.1,82.8,80.7,4,3,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00242,7.03,69.5,71.8,63.7,2,0,1,0,Low,Graduate,No,Female,Not Placed
+SYN00243,7.81,80.7,81.8,66.9,1,0,1,0,High,Graduate,Yes,Male,Placed
+SYN00244,6.85,75.4,76.6,46.4,2,1,3,1,Middle,Below Graduate,Yes,Male,Placed
+SYN00245,8.84,85.8,99.0,87.0,4,2,4,0,Middle,Graduate,Yes,Male,Placed
+SYN00246,9.17,85.9,85.6,86.8,4,2,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00247,6.5,67.9,65.9,70.8,1,2,2,1,Middle,Graduate,Yes,Female,Placed
+SYN00248,6.8,74.3,67.4,68.5,1,0,1,2,Lower-Middle,Postgraduate,No,Female,Not Placed
+SYN00249,6.7,76.5,58.2,47.0,0,2,0,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00250,7.82,78.4,82.3,65.7,0,1,2,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00251,6.21,65.8,63.5,47.9,1,0,0,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00252,6.94,84.7,80.4,67.4,1,2,0,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00253,8.24,82.0,89.6,69.0,3,2,2,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00254,6.49,54.8,52.6,30.1,0,1,1,3,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00255,6.52,46.2,57.4,44.5,0,2,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00256,6.45,67.7,76.2,61.2,1,1,3,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00257,7.54,68.4,73.2,57.8,3,0,2,1,High,Graduate,No,Female,Placed
+SYN00258,9.38,94.0,85.8,85.6,2,2,2,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00259,8.02,71.8,80.8,73.0,3,0,4,0,Upper-Middle,Below Graduate,No,Male,Placed
+SYN00260,7.86,76.9,85.8,74.0,2,2,4,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00261,6.91,72.7,74.0,61.9,2,2,2,1,Low,Graduate,Yes,Male,Placed
+SYN00262,6.45,64.7,59.4,54.4,2,0,0,1,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00263,5.7,62.8,69.0,44.8,1,0,0,2,Low,Below Graduate,Yes,Female,Not Placed
+SYN00264,7.84,74.9,82.5,84.3,0,0,0,0,Low,Below Graduate,Yes,Male,Placed
+SYN00265,6.68,75.7,72.9,66.7,2,0,2,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00266,8.39,90.7,77.3,74.5,2,2,1,1,High,Below Graduate,Yes,Female,Not Placed
+SYN00267,6.67,76.0,75.2,58.6,2,0,1,0,Low,Graduate,No,Female,Not Placed
+SYN00268,7.34,71.4,72.0,56.5,1,1,2,1,Low,Postgraduate,Yes,Female,Not Placed
+SYN00269,6.56,72.1,65.5,58.0,3,2,0,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN00270,7.79,78.8,78.0,71.7,2,2,1,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00271,5.62,66.5,81.0,39.3,0,0,1,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00272,8.25,74.2,78.4,66.8,1,2,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00273,7.2,74.4,68.6,52.7,4,2,1,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00274,7.02,63.6,57.4,49.3,2,2,1,0,Middle,Graduate,Yes,Male,Placed
+SYN00275,5.58,57.1,67.2,42.3,2,0,0,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00276,6.85,67.3,76.8,56.6,0,0,0,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00277,8.49,73.7,91.9,57.8,2,0,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00278,8.43,89.7,86.2,83.7,2,0,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00279,7.79,81.8,82.2,65.0,2,1,1,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00280,8.17,76.9,80.2,72.6,2,2,3,0,Low,Graduate,Yes,Female,Placed
+SYN00281,6.83,77.5,74.3,66.5,1,2,2,1,Upper-Middle,Below Graduate,No,Female,Not Placed
+SYN00282,8.14,87.3,80.7,57.9,2,1,3,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00283,7.15,72.0,75.4,64.4,1,1,1,1,Low,Below Graduate,No,Female,Placed
+SYN00284,5.63,66.6,69.2,,1,1,0,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00285,7.25,64.5,64.1,32.1,2,0,3,0,Upper-Middle,Graduate,No,Female,Not Placed
+SYN00286,5.16,57.2,55.1,38.9,0,1,1,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00287,7.47,86.2,71.8,70.5,3,2,1,2,Middle,Graduate,Yes,Female,Placed
+SYN00288,5.31,71.0,53.4,47.9,3,1,2,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00289,5.59,64.5,69.0,44.5,1,1,2,1,Low,Below Graduate,No,Female,Not Placed
+SYN00290,6.09,58.5,60.5,45.9,0,1,3,1,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00291,6.87,74.1,67.9,53.4,3,1,2,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00292,8.95,90.1,90.7,62.7,1,1,4,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00293,8.8,92.4,98.2,94.5,3,2,1,0,Middle,Graduate,No,Female,Placed
+SYN00294,5.25,63.0,63.8,39.5,0,1,1,2,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00295,6.58,80.4,80.9,49.5,0,0,1,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00296,6.24,62.4,67.4,,1,1,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00297,8.07,88.8,81.1,77.8,1,1,4,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00298,7.06,72.3,76.3,51.5,2,2,2,0,Middle,Graduate,No,Male,Placed
+SYN00299,6.99,76.0,59.0,54.2,3,0,0,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00300,6.95,82.4,79.2,55.5,4,2,0,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00301,6.34,68.8,52.7,50.0,1,1,3,1,Middle,Below Graduate,Yes,Female,Placed
+SYN00302,8.21,94.9,79.1,67.8,4,1,3,0,Low,Below Graduate,Yes,Male,Placed
+SYN00303,8.14,81.6,76.9,60.4,2,1,2,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00304,7.7,74.5,72.6,67.4,2,0,1,0,Middle,Graduate,No,Male,Not Placed
+SYN00305,4.5,50.8,48.1,32.8,0,0,1,1,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00306,7.36,78.3,81.4,52.2,3,1,0,0,Low,Below Graduate,Yes,Female,Placed
+SYN00307,9.92,95.4,95.0,82.1,1,3,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00308,8.37,77.5,77.4,82.6,4,0,1,1,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00309,5.89,56.4,52.2,24.7,1,0,0,1,Low,Below Graduate,No,Female,Not Placed
+SYN00310,7.26,71.9,60.4,56.5,0,1,1,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00311,5.73,60.5,66.2,38.2,1,1,0,0,Lower-Middle,Postgraduate,No,Female,Not Placed
+SYN00312,8.71,99.0,84.5,69.3,5,2,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00313,6.72,76.6,60.4,65.0,3,1,1,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00314,6.46,69.1,68.1,46.6,1,0,1,1,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00315,6.91,81.8,75.5,49.4,1,1,2,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00316,4.63,51.3,57.8,43.2,0,0,3,2,Middle,Graduate,Yes,Female,Not Placed
+SYN00317,5.77,70.6,62.0,56.3,1,0,2,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00318,7.06,64.7,70.3,43.0,3,2,2,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00319,8.16,78.4,92.1,56.0,3,2,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00320,5.44,66.4,58.1,44.0,0,2,2,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00321,5.98,80.8,74.0,53.2,2,1,2,1,Middle,Graduate,Yes,Male,Not Placed
+SYN00322,7.73,77.8,77.0,84.6,2,0,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00323,5.17,57.4,65.3,49.6,1,0,2,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00324,7.48,79.6,64.8,65.2,2,2,0,0,Middle,Graduate,Yes,Male,Placed
+SYN00325,7.29,68.8,67.5,51.5,3,2,4,1,Low,Graduate,Yes,Male,Placed
+SYN00326,8.82,86.5,78.3,83.3,4,3,4,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00327,6.6,77.8,66.6,46.0,1,1,2,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00328,7.2,71.0,80.4,69.9,1,0,0,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00329,7.72,69.4,75.3,73.2,2,1,3,0,Middle,Below Graduate,No,Female,Not Placed
+SYN00330,5.37,54.8,65.3,38.0,0,1,0,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00331,7.46,75.1,82.9,64.8,1,2,2,0,High,Graduate,Yes,Female,Placed
+SYN00332,7.04,58.4,67.4,75.2,3,1,0,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00333,7.3,69.1,75.3,56.5,0,1,4,1,Low,Below Graduate,No,Male,Placed
+SYN00334,7.57,71.6,81.4,74.3,2,1,0,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00335,8.03,86.3,75.2,62.2,2,1,2,0,Low,Below Graduate,No,Male,Not Placed
+SYN00336,6.1,79.0,68.9,52.5,2,1,0,0,Low,Below Graduate,Yes,Female,Placed
+SYN00337,7.5,67.9,84.3,47.9,1,0,2,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00338,8.27,87.9,80.2,76.4,1,1,2,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00339,6.31,62.0,59.5,51.2,0,2,3,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00340,6.04,71.3,64.5,77.8,3,0,1,1,Low,Below Graduate,No,Female,Not Placed
+SYN00341,6.85,83.7,77.3,41.7,0,2,3,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00342,6.98,68.7,76.8,56.8,1,0,0,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00343,5.67,62.0,58.3,53.7,3,0,1,0,High,Below Graduate,Yes,Male,Not Placed
+SYN00344,9.06,77.6,67.4,73.3,1,2,2,1,Low,Below Graduate,Yes,Male,Placed
+SYN00345,5.94,75.1,61.8,49.9,2,1,2,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00346,7.75,61.8,83.0,63.8,3,0,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00347,6.19,66.8,67.0,44.8,2,1,2,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00348,6.26,67.9,67.4,36.7,0,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00349,8.72,80.1,78.7,67.7,1,1,3,0,Middle,Below Graduate,No,Female,Placed
+SYN00350,8.64,86.3,85.7,62.0,2,1,1,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00351,7.11,84.5,77.5,63.4,4,1,2,1,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00352,7.52,72.0,82.3,61.3,1,1,4,0,Middle,Below Graduate,No,Male,Placed
+SYN00353,6.38,84.7,71.1,52.5,1,3,0,1,Middle,Below Graduate,Yes,Male,Placed
+SYN00354,7.82,67.0,76.9,55.8,2,1,2,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00355,7.23,79.2,72.5,52.3,2,1,2,1,High,Graduate,Yes,Male,Not Placed
+SYN00356,7.85,81.3,72.4,65.2,3,1,4,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00357,5.83,64.6,68.1,42.8,0,2,2,2,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00358,7.83,82.6,88.2,77.1,2,0,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00359,6.87,70.5,76.2,66.1,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00360,7.43,75.8,75.3,61.4,3,1,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00361,7.07,77.3,74.6,62.9,2,0,2,0,High,Graduate,Yes,Female,Placed
+SYN00362,7.2,75.6,69.7,59.2,2,1,0,0,High,Graduate,Yes,Female,Not Placed
+SYN00363,7.62,67.4,67.2,38.3,0,1,3,1,Middle,Graduate,No,Female,Placed
+SYN00364,7.04,66.9,73.4,58.4,4,0,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00365,8.71,77.8,80.0,66.2,2,2,1,0,Upper-Middle,,Yes,Female,Placed
+SYN00366,7.02,64.6,62.2,44.3,2,3,2,0,High,Graduate,Yes,Male,Placed
+SYN00367,6.48,69.7,62.8,51.8,2,1,3,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00368,7.04,77.1,58.8,56.4,2,0,3,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00369,7.96,83.2,60.2,78.4,0,1,1,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00370,6.56,84.2,69.5,68.7,0,1,0,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00371,8.27,74.4,99.0,71.5,4,1,3,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00372,7.86,78.4,85.2,53.6,2,1,1,0,High,Postgraduate,Yes,Female,Not Placed
+SYN00373,6.67,74.9,66.5,53.0,2,1,2,0,High,Below Graduate,Yes,Female,Not Placed
+SYN00374,7.57,79.1,73.2,65.4,0,2,3,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00375,5.86,69.4,53.5,46.8,0,1,3,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00376,6.14,63.9,54.4,49.4,2,0,3,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00377,6.86,70.0,59.2,59.0,3,2,3,1,Lower-Middle,Postgraduate,No,Female,Not Placed
+SYN00378,7.91,79.0,80.0,67.1,1,2,4,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00379,7.39,77.8,70.9,71.9,2,1,3,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00380,5.8,59.2,70.2,54.7,2,1,3,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00381,8.46,88.9,86.5,65.8,2,2,2,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00382,7.37,85.5,81.4,75.0,4,1,1,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00383,8.19,81.5,82.7,84.9,2,0,5,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00384,6.7,65.0,57.3,46.8,3,1,1,1,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00385,6.91,68.3,58.5,63.1,2,1,3,1,Lower-Middle,Graduate,No,Male,Placed
+SYN00386,8.05,94.3,74.8,74.3,2,2,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN00387,6.69,93.3,76.1,55.8,3,0,3,1,Low,Postgraduate,No,Male,Not Placed
+SYN00388,6.69,80.8,69.3,63.0,2,1,0,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00389,7.81,75.6,64.8,60.0,2,1,1,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00390,7.07,85.0,78.8,78.5,4,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00391,6.64,73.9,59.7,56.9,3,1,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00392,7.5,70.6,84.9,54.6,3,1,3,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00393,7.71,71.8,73.7,69.5,0,1,1,1,Low,Below Graduate,Yes,Male,Placed
+SYN00394,6.27,63.5,66.3,42.3,2,1,2,1,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00395,7.11,76.9,77.2,63.3,2,2,3,0,Low,Postgraduate,Yes,Male,Placed
+SYN00396,5.91,55.8,57.3,64.7,1,0,4,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00397,5.32,61.0,63.8,45.8,2,0,2,2,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00398,6.55,70.9,69.1,,2,0,1,0,Low,Graduate,No,Male,Not Placed
+SYN00399,7.0,76.1,74.6,65.5,3,0,0,0,Low,Graduate,No,Female,Placed
+SYN00400,6.61,80.3,72.2,56.7,1,0,4,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00401,6.63,58.3,56.2,51.4,3,1,2,1,Low,Graduate,Yes,Male,Not Placed
+SYN00402,7.92,90.1,77.6,52.9,2,2,2,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00403,5.95,53.6,57.7,50.4,2,0,0,1,Low,Graduate,No,Female,Placed
+SYN00404,7.8,65.7,78.1,62.1,2,1,1,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00405,7.45,81.9,86.2,64.3,3,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00406,7.12,65.8,74.9,68.3,3,2,2,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00407,6.79,70.1,70.6,58.7,1,0,0,2,Low,Below Graduate,Yes,Male,Not Placed
+SYN00408,8.13,78.1,80.8,62.1,3,0,3,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00409,5.17,58.2,61.8,49.7,1,1,0,1,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00410,7.37,71.2,84.0,49.4,4,2,4,0,Low,Graduate,Yes,Male,Placed
+SYN00411,10.0,99.0,94.6,100.0,4,1,3,0,Low,Below Graduate,Yes,Male,Placed
+SYN00412,7.09,72.7,73.7,50.7,1,2,1,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00413,6.55,80.1,77.5,60.6,4,2,3,0,Middle,Below Graduate,No,Male,Placed
+SYN00414,8.82,76.9,72.8,62.9,0,0,2,0,Low,Below Graduate,Yes,Female,Placed
+SYN00415,8.08,80.6,75.7,69.8,3,2,4,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00416,8.01,72.1,83.4,82.5,1,2,2,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00417,5.38,56.1,53.8,53.0,3,0,1,2,Middle,Graduate,Yes,Male,Not Placed
+SYN00418,7.79,71.3,69.1,64.2,2,1,1,0,Middle,Below Graduate,No,Female,Placed
+SYN00419,9.55,89.3,98.6,91.3,2,1,3,0,High,Postgraduate,Yes,Male,Placed
+SYN00420,7.64,82.5,86.7,67.4,2,1,4,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00421,5.94,53.3,51.4,62.9,0,0,1,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00422,6.83,83.9,80.1,44.1,1,1,3,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00423,6.89,63.9,44.5,49.3,1,0,0,2,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00424,8.09,82.8,78.5,67.0,1,2,0,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00425,6.41,58.1,74.3,28.3,1,0,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00426,7.0,78.4,69.7,57.6,2,0,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00427,6.23,67.5,66.1,67.2,0,2,1,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00428,6.3,63.5,70.6,48.1,0,0,0,1,Low,Postgraduate,No,Female,Not Placed
+SYN00429,7.72,86.3,71.9,83.5,3,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00430,7.18,65.1,73.7,71.9,2,1,2,0,Middle,Graduate,No,Male,Not Placed
+SYN00431,6.47,60.1,68.3,53.7,2,1,0,0,Middle,Graduate,Yes,Male,Placed
+SYN00432,6.66,58.5,75.3,48.5,2,0,0,2,Middle,,No,Male,Not Placed
+SYN00433,5.02,62.7,50.6,24.0,2,1,1,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00434,5.77,64.4,59.9,39.8,2,0,2,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00435,6.7,79.2,64.9,69.4,5,0,2,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00436,8.61,75.5,72.3,71.3,6,0,1,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00437,6.26,73.4,75.2,57.1,0,2,2,1,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00438,8.75,85.1,83.9,78.5,0,1,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00439,6.79,60.6,60.6,71.8,1,1,0,0,Low,Below Graduate,Yes,Male,Placed
+SYN00440,6.8,73.6,65.9,53.5,2,1,1,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00441,5.49,64.2,58.9,62.6,1,1,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00442,7.36,77.4,76.0,72.1,3,1,1,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00443,9.27,89.0,78.6,98.3,2,2,4,0,Low,,No,Female,Placed
+SYN00444,5.09,60.7,57.8,29.6,0,0,3,1,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00445,7.1,71.9,68.5,57.9,1,0,1,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00446,8.27,80.8,76.4,70.4,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00447,6.11,56.2,63.0,45.3,2,0,2,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00448,7.72,77.0,76.1,77.2,1,2,2,0,Low,Below Graduate,No,Female,Placed
+SYN00449,7.92,80.6,79.8,76.8,2,2,0,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00450,6.95,71.3,74.5,71.8,2,1,2,2,High,Graduate,Yes,Female,Placed
+SYN00451,7.82,75.0,88.4,60.0,2,1,2,0,Low,Below Graduate,No,Male,Placed
+SYN00452,8.46,92.9,99.0,72.0,4,2,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00453,7.84,93.5,83.5,81.6,2,2,1,0,High,Below Graduate,No,Female,Placed
+SYN00454,7.48,71.9,67.2,59.0,0,1,1,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN00455,6.37,69.1,63.7,52.5,2,1,3,0,High,Postgraduate,Yes,Female,Placed
+SYN00456,6.54,70.9,71.9,41.3,2,0,1,0,Middle,Postgraduate,No,Male,Not Placed
+SYN00457,8.51,65.4,75.2,81.5,1,0,0,0,Low,Graduate,Yes,Male,Not Placed
+SYN00458,6.01,69.4,64.2,41.6,2,1,3,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00459,7.38,61.1,83.4,70.1,4,1,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00460,7.32,66.7,73.2,61.2,1,1,3,1,Middle,Graduate,Yes,Male,Placed
+SYN00461,7.34,66.1,71.8,60.3,3,2,0,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00462,6.93,89.7,78.0,68.1,0,1,2,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00463,9.3,99.0,86.7,80.8,4,2,3,0,Low,Below Graduate,Yes,Female,Placed
+SYN00464,7.35,77.7,78.3,62.0,1,2,2,1,Middle,,Yes,Male,Not Placed
+SYN00465,6.52,70.7,61.0,72.6,2,1,0,0,Low,Graduate,Yes,Male,Not Placed
+SYN00466,8.59,71.3,89.2,73.4,1,0,0,0,Middle,Graduate,Yes,Male,Placed
+SYN00467,7.26,78.5,71.7,70.7,2,1,4,1,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00468,9.31,81.4,79.6,82.1,1,2,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00469,8.26,70.8,66.6,64.6,1,1,3,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00470,6.98,72.1,63.2,58.9,3,1,3,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00471,5.96,59.7,57.8,45.3,1,0,2,2,High,Graduate,Yes,Male,Not Placed
+SYN00472,6.24,66.7,43.6,,3,2,1,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00473,4.89,46.9,55.0,27.6,0,0,1,1,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00474,6.75,75.5,69.7,66.4,3,0,3,1,Low,Below Graduate,No,Female,Placed
+SYN00475,6.42,57.0,65.4,43.4,0,0,1,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00476,8.33,80.8,84.0,70.3,2,0,4,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00477,7.25,78.9,70.4,72.0,1,0,0,0,High,Postgraduate,Yes,Male,Placed
+SYN00478,6.95,65.7,67.5,50.7,3,3,0,0,Middle,Postgraduate,No,Male,Not Placed
+SYN00479,5.25,67.4,62.9,38.2,1,0,2,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00480,7.71,79.3,88.2,74.0,0,0,1,0,Upper-Middle,Graduate,No,Female,Placed
+SYN00481,6.02,62.8,59.4,,0,1,4,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00482,6.77,64.9,61.0,31.8,0,0,3,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00483,8.6,81.8,73.4,81.2,3,2,4,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00484,7.74,72.6,65.6,65.3,3,0,3,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00485,7.21,73.8,73.7,61.7,1,1,1,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00486,6.98,76.7,77.7,63.1,1,0,0,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00487,7.43,70.8,80.8,47.6,2,3,3,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00488,7.95,89.4,84.6,53.5,1,2,0,0,High,Below Graduate,Yes,Male,Placed
+SYN00489,6.83,68.0,79.0,48.6,2,0,3,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00490,9.82,86.3,86.1,71.3,3,1,3,0,Low,Below Graduate,Yes,Male,Placed
+SYN00491,5.88,70.6,66.1,56.4,1,0,1,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00492,8.31,79.5,75.2,73.0,3,1,3,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00493,6.5,67.9,73.0,59.6,2,0,2,0,Low,Below Graduate,Yes,Female,Placed
+SYN00494,7.88,77.7,78.4,70.3,3,2,2,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00495,7.83,72.8,82.5,71.6,0,1,4,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00496,8.01,84.7,73.0,77.1,3,0,4,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00497,6.79,63.4,66.8,47.7,2,0,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00498,7.71,82.1,83.5,73.5,2,2,1,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00499,8.35,85.8,88.1,82.4,3,1,4,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00500,6.55,91.3,67.1,35.3,1,1,0,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00501,6.95,69.5,79.2,66.2,3,2,2,0,Lower-Middle,Graduate,No,Male,Placed
+SYN00502,6.3,60.2,83.9,55.6,1,1,2,0,High,Below Graduate,Yes,Male,Placed
+SYN00503,6.83,62.0,62.4,61.3,0,1,1,2,Middle,Graduate,Yes,Male,Not Placed
+SYN00504,8.47,90.2,88.4,67.2,3,1,4,0,Low,Graduate,Yes,Male,Placed
+SYN00505,5.98,75.6,46.9,46.1,0,1,1,2,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00506,6.71,62.8,69.2,39.8,1,0,0,1,Middle,Graduate,No,Female,Not Placed
+SYN00507,8.42,92.6,70.7,84.4,2,1,3,0,Low,Graduate,No,Male,Placed
+SYN00508,8.04,81.4,71.6,54.2,1,2,0,0,Low,Graduate,No,Male,Not Placed
+SYN00509,8.98,90.2,80.8,75.0,3,2,4,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00510,6.58,66.8,65.0,59.9,1,0,0,0,Low,Postgraduate,Yes,Female,Not Placed
+SYN00511,6.94,75.3,77.7,,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00512,6.4,72.0,52.6,44.4,1,2,1,0,Low,Postgraduate,Yes,Female,Not Placed
+SYN00513,7.53,76.7,70.0,69.7,1,1,1,0,Lower-Middle,Postgraduate,No,Female,Placed
+SYN00514,5.3,54.9,53.7,49.0,2,0,1,1,Lower-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00515,8.01,78.8,88.2,74.0,2,1,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00516,7.01,87.7,76.6,71.2,2,2,3,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00517,7.29,73.0,61.9,57.3,3,1,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00518,6.55,76.5,66.2,53.9,3,1,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00519,6.66,69.3,74.2,44.3,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00520,7.84,81.9,82.9,69.5,2,1,1,0,Middle,Graduate,No,Male,Placed
+SYN00521,6.63,63.3,54.7,42.4,0,0,1,1,Low,Graduate,No,Female,Placed
+SYN00522,6.94,81.5,72.4,61.7,2,2,2,0,Low,Below Graduate,No,Female,Not Placed
+SYN00523,8.28,94.1,86.3,88.2,4,2,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00524,8.14,86.7,79.6,87.0,3,2,4,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00525,5.1,57.0,48.0,47.0,0,2,1,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00526,6.13,73.6,64.9,70.2,2,1,2,1,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00527,7.74,76.2,83.6,58.3,3,2,0,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00528,7.09,72.0,69.4,42.7,1,2,3,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00529,5.68,79.3,60.5,51.0,2,1,0,2,Middle,Graduate,Yes,Female,Not Placed
+SYN00530,7.17,65.8,74.0,,2,2,1,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00531,6.88,80.1,86.7,57.4,1,2,3,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00532,9.55,83.3,86.6,65.1,4,3,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00533,6.52,72.0,76.3,49.1,0,0,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00534,7.46,96.8,75.5,59.3,2,1,3,0,Low,Graduate,No,Female,Placed
+SYN00535,6.46,59.7,61.8,42.2,1,1,1,1,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00536,6.3,64.2,66.7,45.1,0,1,1,0,High,Graduate,Yes,Male,Not Placed
+SYN00537,8.57,77.7,70.7,68.7,2,0,3,0,Low,Below Graduate,Yes,Female,Placed
+SYN00538,7.9,78.0,79.7,83.1,4,2,3,0,Middle,Below Graduate,No,Female,Placed
+SYN00539,6.68,72.0,70.5,55.6,2,0,1,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00540,7.59,70.2,66.2,45.7,2,1,4,1,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00541,5.76,68.5,62.5,50.3,0,0,1,3,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00542,6.66,65.0,75.6,59.0,0,1,0,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00543,8.33,71.5,74.9,68.3,2,1,0,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00544,7.19,71.9,78.4,55.0,1,0,0,2,High,Graduate,Yes,Female,Not Placed
+SYN00545,6.14,60.6,68.5,59.1,1,1,1,0,Low,Below Graduate,No,Female,Not Placed
+SYN00546,5.56,73.3,61.1,41.3,3,0,1,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00547,5.44,60.0,54.2,51.2,1,0,2,0,Middle,Postgraduate,No,Female,Not Placed
+SYN00548,8.85,79.8,81.6,90.0,3,1,2,0,Low,,Yes,Male,Placed
+SYN00549,7.03,76.3,74.2,,3,2,3,1,Lower-Middle,Graduate,No,Female,Placed
+SYN00550,6.34,65.3,78.1,39.7,1,0,1,1,High,Postgraduate,Yes,Male,Not Placed
+SYN00551,5.96,60.4,71.2,56.0,4,0,2,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN00552,5.15,72.7,65.7,32.3,0,0,0,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00553,6.11,61.5,57.6,33.3,0,1,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00554,8.0,82.9,81.3,71.9,1,2,0,0,Lower-Middle,,No,Female,Placed
+SYN00555,7.0,70.8,78.0,71.5,3,0,2,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00556,9.28,96.2,84.2,80.5,3,2,2,0,High,,Yes,Female,Placed
+SYN00557,8.02,75.2,76.7,60.6,1,2,3,1,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00558,6.96,66.8,74.5,40.4,1,2,1,0,Low,Graduate,No,Male,Not Placed
+SYN00559,8.08,75.2,76.9,71.0,3,0,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN00560,4.54,54.1,51.3,31.4,1,0,0,3,High,Graduate,Yes,Female,Not Placed
+SYN00561,6.51,79.3,66.4,56.3,3,1,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00562,6.96,67.0,83.5,61.1,2,1,2,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00563,7.62,96.0,86.0,77.9,3,0,5,0,Low,Below Graduate,Yes,Male,Placed
+SYN00564,7.95,76.4,81.1,61.1,2,1,2,0,Lower-Middle,Postgraduate,No,Male,Placed
+SYN00565,5.95,67.7,63.0,50.5,0,2,1,0,High,Postgraduate,Yes,Male,Placed
+SYN00566,7.4,77.4,82.6,84.4,2,0,2,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00567,7.87,66.9,73.8,55.1,0,2,2,0,High,Graduate,Yes,Female,Placed
+SYN00568,6.02,60.7,66.6,42.2,2,0,1,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00569,6.6,70.2,78.8,60.6,3,1,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00570,7.46,71.5,66.9,65.5,3,2,2,1,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00571,8.14,79.6,74.0,65.9,3,1,3,0,Lower-Middle,,Yes,Male,Placed
+SYN00572,7.88,80.1,74.5,69.0,2,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00573,7.1,72.5,63.9,56.2,3,2,2,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00574,7.65,75.0,76.3,72.1,3,1,2,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00575,8.3,80.8,77.8,66.9,4,2,4,1,Middle,Below Graduate,Yes,Male,Placed
+SYN00576,8.29,89.0,84.3,63.5,4,1,3,0,High,Postgraduate,Yes,Male,Placed
+SYN00577,8.62,84.6,94.2,89.3,2,2,5,0,Low,Below Graduate,Yes,Male,Placed
+SYN00578,7.59,77.5,63.4,54.0,2,0,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00579,7.39,64.7,86.1,66.2,3,0,3,0,Low,Below Graduate,No,Female,Placed
+SYN00580,8.53,76.3,79.6,89.2,1,0,1,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00581,7.09,64.8,72.7,65.2,0,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00582,7.13,82.5,63.5,48.4,0,0,1,1,Middle,Below Graduate,Yes,Female,Placed
+SYN00583,7.9,89.0,90.3,67.4,2,1,3,0,Low,Graduate,Yes,Female,Placed
+SYN00584,8.89,82.2,85.6,71.1,2,1,2,0,Middle,Postgraduate,No,Male,Not Placed
+SYN00585,7.09,69.7,70.7,61.3,0,2,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00586,6.49,64.6,55.0,57.0,2,0,1,1,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00587,8.97,79.6,83.4,64.6,2,0,1,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00588,7.24,83.6,84.3,60.9,3,1,1,0,Middle,Graduate,No,Female,Placed
+SYN00589,8.1,74.0,72.2,56.2,4,2,4,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00590,6.78,83.1,76.3,54.8,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00591,7.68,85.8,83.6,81.5,1,1,0,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00592,6.96,82.1,68.1,51.4,2,2,3,0,Middle,Graduate,Yes,Female,Placed
+SYN00593,5.73,71.9,76.3,43.9,1,1,0,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00594,7.29,74.1,74.9,51.2,1,2,2,0,Upper-Middle,Below Graduate,No,Female,Not Placed
+SYN00595,7.47,78.9,73.6,68.6,1,0,2,0,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00596,6.97,66.9,67.6,55.5,1,1,2,1,Low,Graduate,No,Male,Not Placed
+SYN00597,7.88,91.4,80.1,61.9,2,0,4,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00598,7.17,84.7,63.2,70.9,3,1,1,0,Low,Postgraduate,No,Male,Placed
+SYN00599,7.26,82.5,77.8,63.5,3,2,3,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00600,7.83,73.0,61.3,59.6,3,2,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00601,7.19,88.5,86.6,92.5,3,1,1,0,Low,Below Graduate,Yes,Male,Placed
+SYN00602,7.95,67.6,84.5,65.8,2,0,1,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00603,5.79,77.9,70.5,45.6,1,0,1,2,High,Graduate,Yes,Male,Not Placed
+SYN00604,7.68,78.7,76.2,61.4,1,1,2,0,Middle,Postgraduate,No,Male,Placed
+SYN00605,7.57,67.1,67.0,49.5,1,1,0,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00606,9.13,90.6,88.9,95.1,2,1,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00607,9.35,78.6,99.0,82.1,0,1,1,0,High,Graduate,Yes,Female,Placed
+SYN00608,7.75,82.8,72.4,63.6,1,2,4,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00609,7.43,67.8,56.7,73.7,3,1,2,1,Low,Below Graduate,No,Female,Not Placed
+SYN00610,7.19,76.7,80.4,62.0,2,1,4,1,Middle,Graduate,Yes,Male,Not Placed
+SYN00611,6.55,73.2,74.1,55.9,1,0,2,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00612,6.15,54.1,66.9,43.5,1,0,0,1,Low,Below Graduate,No,Male,Placed
+SYN00613,6.32,65.8,72.2,48.8,0,0,0,1,Middle,Postgraduate,No,Male,Placed
+SYN00614,7.74,63.8,77.4,50.9,2,0,2,1,Low,Below Graduate,Yes,Female,Placed
+SYN00615,5.07,56.4,57.1,35.5,2,1,1,0,Upper-Middle,Graduate,No,Male,Placed
+SYN00616,6.93,84.3,53.3,61.6,1,1,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00617,7.0,74.7,68.2,52.7,0,0,0,0,Low,Below Graduate,No,Female,Placed
+SYN00618,6.33,68.7,72.3,61.6,1,1,4,0,Low,Below Graduate,Yes,Female,Placed
+SYN00619,6.58,64.2,65.0,43.0,3,2,3,0,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00620,6.78,70.2,67.3,63.3,2,2,1,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00621,8.17,86.6,77.5,81.8,1,2,5,0,Low,Below Graduate,Yes,Male,Placed
+SYN00622,7.84,76.0,70.0,56.5,5,1,1,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00623,6.56,70.7,77.5,51.8,0,1,2,0,Low,,No,Male,Not Placed
+SYN00624,6.99,66.9,82.8,67.6,1,2,0,1,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00625,7.02,67.2,71.0,48.4,0,0,4,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00626,6.35,69.3,66.9,41.9,0,2,0,1,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00627,6.22,60.0,58.7,50.9,1,0,0,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00628,7.97,84.5,82.3,90.3,3,1,1,0,Low,Graduate,No,Male,Placed
+SYN00629,6.33,68.6,78.1,49.3,3,0,3,0,Low,Below Graduate,No,Male,Not Placed
+SYN00630,7.29,53.5,52.5,,1,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00631,6.49,74.7,75.1,61.9,0,0,2,1,Middle,Postgraduate,Yes,Male,Placed
+SYN00632,7.16,67.6,79.2,56.0,2,1,3,0,High,Graduate,Yes,Female,Not Placed
+SYN00633,5.24,64.0,61.2,39.8,1,1,1,1,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00634,8.04,72.6,82.8,55.5,2,1,2,0,Middle,Graduate,No,Female,Not Placed
+SYN00635,7.35,92.5,92.6,66.3,2,2,4,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00636,7.68,83.2,73.3,50.0,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00637,9.28,85.9,94.6,84.3,3,2,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00638,8.44,72.3,83.0,81.9,2,2,3,0,Middle,Graduate,Yes,Male,Placed
+SYN00639,9.1,82.7,81.1,76.5,4,2,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00640,10.0,90.7,97.8,100.0,5,2,3,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00641,7.56,90.2,81.6,73.6,2,2,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00642,7.39,75.6,75.1,61.3,2,2,2,0,Middle,Graduate,Yes,Female,Placed
+SYN00643,7.28,89.0,75.7,,2,4,2,0,Upper-Middle,Below Graduate,No,Female,Placed
+SYN00644,6.62,67.0,63.7,49.5,1,2,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00645,6.98,75.4,71.5,47.9,2,1,2,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00646,6.33,66.6,59.3,50.5,2,0,3,1,Low,Below Graduate,No,Female,Not Placed
+SYN00647,6.92,86.6,80.0,65.7,1,1,2,0,High,Graduate,Yes,Male,Not Placed
+SYN00648,6.76,71.1,69.9,68.3,2,1,1,1,Middle,Below Graduate,No,Male,Placed
+SYN00649,5.62,60.2,70.9,57.2,1,1,2,0,Low,Graduate,Yes,Female,Placed
+SYN00650,7.6,87.4,70.1,56.8,1,1,3,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00651,6.32,69.1,65.1,45.5,2,2,3,2,Low,Below Graduate,Yes,Male,Not Placed
+SYN00652,5.04,56.2,67.1,36.9,1,0,2,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00653,6.45,47.0,60.9,51.3,2,0,0,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN00654,6.39,69.0,63.4,45.4,2,1,0,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00655,6.96,69.1,65.4,55.2,1,0,3,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00656,8.07,75.9,80.7,62.9,1,0,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00657,6.93,72.5,80.6,68.9,2,0,2,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00658,8.71,78.3,87.0,57.3,3,1,3,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN00659,7.02,75.8,76.2,82.7,3,1,4,0,Low,Below Graduate,Yes,Female,Placed
+SYN00660,8.38,84.6,74.1,61.8,2,1,4,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00661,7.41,81.9,88.6,73.8,2,1,3,0,Lower-Middle,Postgraduate,No,Male,Placed
+SYN00662,6.85,73.5,78.4,59.9,3,1,1,1,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00663,8.35,87.7,77.0,71.1,1,2,1,2,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00664,8.49,82.5,90.2,67.9,5,3,0,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN00665,7.83,73.2,70.7,,3,1,2,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00666,8.48,87.0,92.9,78.1,1,2,4,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00667,5.03,46.3,62.0,43.7,1,0,2,1,Lower-Middle,,No,Male,Not Placed
+SYN00668,7.06,72.3,62.9,69.5,2,1,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00669,7.02,62.7,73.7,59.6,1,1,1,1,Middle,Graduate,Yes,Female,Placed
+SYN00670,8.36,76.3,85.5,88.1,1,2,1,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00671,8.59,73.7,99.0,78.1,1,0,1,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00672,6.23,61.7,56.0,53.7,1,0,1,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00673,7.54,92.9,90.6,79.4,0,1,1,0,Low,Below Graduate,Yes,Male,Placed
+SYN00674,5.97,63.1,61.9,42.2,0,1,3,2,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00675,5.51,69.1,55.2,49.1,2,0,0,0,Middle,Postgraduate,Yes,Female,Placed
+SYN00676,6.99,85.4,68.5,62.0,1,0,1,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00677,7.69,75.5,71.1,56.2,1,2,0,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00678,5.46,56.1,51.8,46.6,0,0,1,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00679,7.96,78.2,82.0,74.9,0,0,2,0,High,Below Graduate,Yes,Female,Placed
+SYN00680,8.19,81.0,85.3,67.3,2,2,2,1,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00681,7.34,81.4,84.8,45.1,1,2,1,0,High,,Yes,Female,Placed
+SYN00682,6.61,68.8,66.6,70.3,1,1,2,0,Upper-Middle,,Yes,Female,Not Placed
+SYN00683,7.13,77.6,68.7,56.9,2,0,1,0,Low,Below Graduate,No,Male,Placed
+SYN00684,5.83,80.3,72.1,52.3,1,1,2,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00685,8.08,75.6,84.9,68.5,2,2,5,0,Low,Below Graduate,No,Female,Placed
+SYN00686,5.18,48.0,58.1,25.8,0,0,1,2,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00687,6.75,64.0,66.5,44.4,2,0,2,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00688,7.25,76.8,62.1,53.4,2,0,1,1,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00689,6.66,73.8,61.3,41.9,0,1,0,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00690,6.86,86.1,69.0,61.9,0,0,1,2,Low,Below Graduate,No,Female,Not Placed
+SYN00691,7.3,70.6,78.7,76.9,2,1,5,0,Middle,Graduate,Yes,Male,Placed
+SYN00692,6.43,66.6,75.6,60.2,2,2,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00693,7.11,76.0,82.1,,2,1,2,0,Low,Below Graduate,No,Female,Not Placed
+SYN00694,7.44,75.3,78.3,,4,2,1,2,Middle,Graduate,No,Male,Not Placed
+SYN00695,7.6,72.9,76.7,58.3,2,1,0,1,Upper-Middle,Graduate,No,Male,Not Placed
+SYN00696,7.28,65.9,56.9,58.9,1,1,1,0,Low,Below Graduate,Yes,Male,Placed
+SYN00697,7.63,57.3,73.9,52.2,2,0,4,2,Middle,Below Graduate,Yes,Male,Placed
+SYN00698,6.89,73.9,64.2,56.1,2,0,2,1,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00699,5.16,59.4,58.1,48.5,1,0,3,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00700,7.99,83.3,93.4,74.9,3,1,1,0,Low,Graduate,Yes,Female,Placed
+SYN00701,7.16,73.2,73.2,55.6,0,1,0,0,High,Graduate,Yes,Female,Not Placed
+SYN00702,8.52,78.2,78.1,63.1,2,0,1,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00703,7.25,75.2,77.4,63.8,3,1,2,0,Low,Graduate,Yes,Male,Placed
+SYN00704,8.32,70.0,77.2,59.9,3,0,2,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00705,5.76,59.0,58.1,49.6,1,0,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00706,7.11,75.2,83.1,58.2,0,0,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00707,6.58,61.8,68.2,43.9,0,0,2,2,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00708,7.1,71.9,66.6,,4,1,1,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN00709,8.45,70.2,77.5,77.5,3,1,3,0,Low,Graduate,Yes,Male,Placed
+SYN00710,8.04,87.2,84.7,78.7,2,2,3,0,High,Postgraduate,Yes,Male,Not Placed
+SYN00711,6.14,61.2,72.0,36.6,1,0,1,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00712,7.79,77.7,71.9,,0,1,0,0,Upper-Middle,Postgraduate,No,Male,Not Placed
+SYN00713,6.7,77.8,51.8,62.9,1,2,1,0,Middle,Graduate,No,Male,Not Placed
+SYN00714,7.74,84.1,94.0,80.7,1,0,4,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00715,6.05,67.2,57.1,38.2,0,1,2,2,Low,Graduate,Yes,Female,Not Placed
+SYN00716,5.84,57.0,59.4,47.3,0,2,2,0,Low,Graduate,Yes,Male,Not Placed
+SYN00717,8.8,87.5,84.6,73.3,0,2,1,0,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00718,5.24,54.9,62.2,36.8,2,1,0,0,High,Postgraduate,Yes,Male,Not Placed
+SYN00719,6.23,63.1,72.5,65.4,0,2,3,1,Lower-Middle,,Yes,Male,Not Placed
+SYN00720,7.78,79.0,69.7,72.6,2,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00721,6.92,67.5,66.5,77.0,3,0,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00722,6.86,75.5,71.9,62.6,2,1,1,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00723,6.64,69.7,76.4,77.2,1,0,0,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00724,8.47,88.8,76.1,63.8,2,1,3,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN00725,7.61,75.1,68.7,82.3,1,2,3,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00726,6.78,69.6,75.2,59.8,3,0,1,1,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00727,6.85,75.4,67.3,72.5,4,1,1,0,Low,Below Graduate,Yes,Female,Placed
+SYN00728,7.89,71.1,70.4,61.3,3,0,3,1,Low,Graduate,Yes,Male,Not Placed
+SYN00729,10.0,83.9,83.7,86.5,0,1,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00730,8.1,82.3,77.1,81.5,2,0,4,0,Lower-Middle,Postgraduate,No,Female,Not Placed
+SYN00731,8.3,83.9,71.9,63.6,2,0,2,0,Middle,Postgraduate,No,Female,Not Placed
+SYN00732,5.87,64.7,61.6,51.8,2,0,1,2,Low,Below Graduate,Yes,Female,Not Placed
+SYN00733,6.56,72.1,72.1,35.0,0,2,2,1,High,Graduate,Yes,Female,Not Placed
+SYN00734,6.85,82.1,72.0,55.8,0,1,1,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00735,6.87,71.8,80.0,51.1,3,2,3,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00736,6.09,61.1,73.9,47.0,0,0,2,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00737,9.02,73.1,91.2,100.0,1,1,4,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00738,8.44,80.0,84.2,85.2,1,2,2,1,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00739,6.81,75.9,69.0,43.7,2,0,1,1,Middle,Graduate,Yes,Female,Placed
+SYN00740,7.11,83.4,72.3,72.1,1,2,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00741,7.8,74.4,71.9,69.6,2,2,1,1,Low,Below Graduate,Yes,Female,Placed
+SYN00742,7.71,84.7,80.8,64.9,1,0,4,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00743,5.09,66.8,65.8,46.8,0,0,2,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00744,7.27,78.7,74.1,60.9,3,0,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00745,7.41,77.4,68.7,47.2,2,0,0,0,Low,Graduate,No,Male,Not Placed
+SYN00746,6.55,87.6,81.3,57.6,2,1,4,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00747,6.22,68.4,75.6,54.6,1,2,2,0,Middle,Postgraduate,Yes,Female,Placed
+SYN00748,4.78,45.2,56.9,33.4,2,0,1,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00749,6.44,68.5,62.3,41.7,2,2,3,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00750,6.87,78.6,66.5,52.2,3,1,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00751,6.84,84.3,67.3,59.9,1,3,1,0,Middle,Graduate,Yes,Female,Placed
+SYN00752,8.92,94.4,80.2,86.5,2,1,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00753,7.47,90.7,78.7,65.7,2,1,0,1,Middle,Graduate,No,Male,Placed
+SYN00754,7.64,81.2,78.8,,1,1,2,1,High,Graduate,Yes,Male,Placed
+SYN00755,6.63,75.5,62.9,53.4,1,0,1,1,Middle,Below Graduate,No,Female,Placed
+SYN00756,7.63,76.1,79.2,73.9,2,2,1,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00757,7.05,72.7,70.5,50.3,2,1,1,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00758,6.99,67.6,63.0,63.7,0,1,1,1,Low,Postgraduate,Yes,Female,Not Placed
+SYN00759,6.51,65.8,65.3,41.0,2,0,0,2,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00760,8.2,86.1,81.8,93.0,3,2,3,1,Middle,Postgraduate,Yes,Male,Placed
+SYN00761,7.32,82.8,73.2,49.1,2,1,2,0,High,Graduate,Yes,Female,Placed
+SYN00762,7.06,67.0,65.9,67.7,2,0,1,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00763,6.21,76.7,71.6,59.6,1,1,4,0,Low,Below Graduate,No,Female,Placed
+SYN00764,8.18,62.1,71.0,70.6,1,1,2,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00765,7.37,71.1,66.4,69.3,2,1,2,1,Low,Graduate,Yes,Female,Placed
+SYN00766,7.07,77.3,71.2,61.8,2,1,2,2,Middle,Graduate,Yes,Female,Not Placed
+SYN00767,6.26,80.4,62.2,46.2,1,2,1,1,Middle,Below Graduate,No,Female,Placed
+SYN00768,7.1,81.5,64.3,69.1,1,2,2,0,Middle,Graduate,No,Female,Not Placed
+SYN00769,6.82,82.8,60.7,72.9,1,0,2,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00770,6.17,71.8,66.1,47.0,1,2,2,1,Middle,Postgraduate,No,Female,Not Placed
+SYN00771,5.52,63.7,53.1,64.4,3,2,0,0,Middle,Postgraduate,No,Male,Placed
+SYN00772,7.52,78.2,70.8,64.3,2,1,1,1,Middle,Graduate,No,Male,Not Placed
+SYN00773,7.37,74.1,83.0,54.1,2,0,1,0,Upper-Middle,Postgraduate,No,Male,Not Placed
+SYN00774,6.48,68.3,62.1,48.4,0,0,0,1,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00775,7.48,70.5,69.8,60.2,3,0,3,0,Low,Below Graduate,No,Male,Placed
+SYN00776,8.04,73.7,92.2,50.6,1,3,5,0,Middle,Graduate,Yes,Male,Placed
+SYN00777,8.39,82.0,79.5,64.0,1,1,2,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00778,7.99,80.1,75.6,,3,1,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00779,7.42,70.3,69.5,47.7,2,0,3,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00780,6.78,65.3,69.5,60.5,0,0,0,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00781,6.5,66.7,72.7,46.5,1,1,2,2,Low,Graduate,Yes,Male,Not Placed
+SYN00782,5.97,73.1,63.0,47.8,1,1,1,0,Lower-Middle,Postgraduate,No,Male,Not Placed
+SYN00783,7.12,67.8,67.6,57.3,1,3,4,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00784,6.35,59.2,55.9,54.5,1,1,1,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00785,6.98,78.5,71.4,61.7,0,1,3,0,Low,Postgraduate,Yes,Female,Placed
+SYN00786,6.57,59.6,56.7,43.1,0,1,1,0,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN00787,5.95,64.4,56.1,42.9,0,0,4,3,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00788,7.91,88.3,70.6,68.6,2,0,1,0,Low,Below Graduate,Yes,Male,Placed
+SYN00789,6.57,79.1,74.4,44.5,0,0,3,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00790,6.24,74.5,64.8,48.2,0,2,2,0,High,Graduate,Yes,Female,Placed
+SYN00791,6.67,69.9,66.2,53.2,0,0,2,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00792,7.7,91.3,65.4,69.8,2,2,2,0,Middle,Below Graduate,No,Female,Placed
+SYN00793,7.86,70.2,83.1,73.1,4,1,1,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN00794,6.63,67.2,60.2,61.7,1,1,0,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00795,6.02,75.4,65.5,48.8,1,0,3,0,Low,Graduate,No,Female,Not Placed
+SYN00796,8.14,80.9,95.3,63.2,3,2,1,0,Middle,Graduate,No,Female,Not Placed
+SYN00797,5.28,65.0,61.6,37.8,1,0,2,2,Low,Graduate,Yes,Female,Not Placed
+SYN00798,8.51,87.5,84.9,95.1,2,2,3,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00799,10.0,94.7,99.0,88.4,4,1,4,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00800,4.5,53.5,47.2,27.8,1,1,2,1,High,Below Graduate,Yes,Male,Not Placed
+SYN00801,7.39,70.5,79.2,72.8,2,2,0,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00802,7.42,64.2,55.5,49.5,1,1,2,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00803,7.41,73.9,68.7,77.2,1,2,1,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00804,6.69,65.2,59.1,50.8,2,1,3,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00805,7.3,85.4,79.4,59.8,2,3,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00806,6.45,77.4,71.9,57.3,3,1,2,0,Middle,Graduate,No,Male,Placed
+SYN00807,6.07,72.5,61.9,47.7,0,1,1,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN00808,6.7,66.2,78.1,50.8,3,1,1,1,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00809,7.38,69.5,74.0,,2,1,1,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN00810,6.11,67.3,67.5,49.8,0,0,0,2,High,Graduate,Yes,Female,Not Placed
+SYN00811,5.47,76.2,62.2,46.1,1,1,0,1,Low,Below Graduate,Yes,Female,Placed
+SYN00812,9.09,96.7,77.5,77.8,2,1,1,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00813,5.86,63.5,60.0,47.7,1,1,0,1,Low,Below Graduate,No,Male,Not Placed
+SYN00814,6.65,74.6,70.5,67.7,1,1,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00815,6.65,74.4,72.1,40.5,1,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00816,7.41,68.2,83.6,55.7,3,0,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN00817,9.58,96.8,85.2,77.3,3,1,2,0,Middle,Below Graduate,No,Male,Placed
+SYN00818,7.79,78.0,75.0,78.5,1,1,1,0,Middle,Graduate,Yes,Male,Placed
+SYN00819,5.15,62.9,55.8,39.9,0,1,1,0,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00820,5.94,61.1,61.1,48.5,1,0,0,1,Low,Graduate,Yes,Female,Placed
+SYN00821,6.89,75.7,64.9,55.9,2,2,1,0,Low,Graduate,No,Male,Placed
+SYN00822,6.78,66.5,67.3,68.7,1,0,0,1,Lower-Middle,Graduate,No,Female,Placed
+SYN00823,4.9,48.0,55.6,26.8,2,0,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00824,8.61,81.7,81.3,75.6,3,1,1,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00825,5.86,55.8,62.4,46.3,0,2,2,1,High,Graduate,Yes,Female,Not Placed
+SYN00826,8.72,83.3,78.1,84.8,2,0,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00827,8.73,93.7,87.4,72.7,2,2,3,0,Low,Below Graduate,No,Female,Not Placed
+SYN00828,7.21,75.9,50.7,57.5,1,0,3,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00829,8.32,84.2,72.0,63.9,3,1,0,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00830,6.3,68.3,55.1,37.4,2,0,0,2,Middle,Graduate,No,Male,Not Placed
+SYN00831,7.39,92.7,84.0,55.3,2,3,3,0,Lower-Middle,Graduate,No,Male,Placed
+SYN00832,7.29,68.1,66.7,49.3,2,1,2,1,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00833,5.74,65.7,57.7,49.2,2,0,3,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00834,6.89,68.3,68.6,50.0,2,1,4,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00835,6.16,76.4,64.8,51.9,2,1,2,0,Middle,Graduate,No,Male,Not Placed
+SYN00836,6.48,72.6,68.4,39.5,2,1,1,1,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00837,7.96,91.1,79.4,67.1,3,1,1,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN00838,6.62,64.9,63.4,60.6,0,1,1,1,Middle,Graduate,No,Female,Placed
+SYN00839,7.8,94.3,81.1,85.4,2,0,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00840,6.03,65.0,52.8,44.6,1,0,0,1,Low,Graduate,Yes,Female,Not Placed
+SYN00841,8.09,84.7,75.4,80.0,2,2,1,0,Low,Graduate,Yes,Male,Placed
+SYN00842,6.82,69.5,64.7,41.4,0,0,2,1,Middle,Graduate,No,Male,Placed
+SYN00843,6.92,74.8,73.2,74.6,2,1,4,0,Lower-Middle,,Yes,Female,Not Placed
+SYN00844,6.21,72.6,59.2,73.2,2,1,3,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00845,6.72,68.0,72.2,57.7,0,0,1,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00846,7.55,77.8,85.0,92.1,2,2,3,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00847,9.16,85.6,91.9,70.4,2,0,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00848,8.07,71.4,81.5,61.8,2,0,2,0,Low,Below Graduate,No,Female,Not Placed
+SYN00849,6.57,73.8,70.9,49.2,0,2,1,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00850,7.43,66.1,85.7,60.1,0,2,1,1,Low,Below Graduate,No,Female,Placed
+SYN00851,6.08,68.0,65.4,72.2,2,3,2,1,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN00852,5.61,69.2,56.5,46.6,0,1,1,1,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00853,6.31,70.3,53.3,39.7,1,1,0,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00854,6.19,59.1,79.1,47.1,1,1,0,2,Lower-Middle,Graduate,No,Female,Not Placed
+SYN00855,6.97,77.0,87.1,73.0,2,2,2,1,Upper-Middle,Below Graduate,No,Male,Not Placed
+SYN00856,5.82,61.9,51.1,47.9,1,1,1,2,Middle,Graduate,Yes,Male,Placed
+SYN00857,7.35,74.3,67.3,55.1,3,2,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00858,8.12,97.0,84.8,59.8,1,2,1,0,High,Graduate,Yes,Female,Placed
+SYN00859,7.73,76.0,86.9,62.2,3,1,3,0,Low,Below Graduate,No,Male,Placed
+SYN00860,6.31,58.6,60.6,69.1,0,0,3,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00861,6.54,65.7,46.0,50.8,2,0,0,0,Low,Below Graduate,Yes,Male,Placed
+SYN00862,7.9,73.7,89.0,65.6,0,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00863,4.96,46.5,57.1,51.3,3,0,0,2,Upper-Middle,Graduate,No,Male,Not Placed
+SYN00864,8.42,82.3,84.2,89.8,2,0,2,0,Middle,Postgraduate,No,Female,Not Placed
+SYN00865,6.36,80.1,69.4,57.3,3,1,3,0,Middle,Below Graduate,No,Male,Placed
+SYN00866,8.43,80.3,88.9,80.0,4,1,4,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN00867,5.57,73.4,47.5,35.8,0,1,2,2,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00868,8.11,75.5,73.1,67.5,2,2,2,0,Lower-Middle,Graduate,No,Female,Placed
+SYN00869,7.03,74.1,72.3,45.5,1,1,0,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00870,6.89,63.2,53.8,42.9,2,1,0,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00871,5.88,62.5,58.3,29.4,0,0,2,2,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00872,7.54,77.2,73.6,76.3,1,2,4,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00873,7.56,69.7,74.6,53.4,3,1,1,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00874,8.49,99.0,81.9,97.2,2,1,2,1,Lower-Middle,Postgraduate,No,Male,Placed
+SYN00875,8.01,77.1,71.6,64.5,2,1,1,0,Low,Below Graduate,No,Male,Placed
+SYN00876,6.89,67.9,57.0,69.1,1,0,1,1,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00877,6.35,72.2,65.3,45.7,0,0,3,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00878,5.24,71.9,57.1,30.9,0,0,1,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00879,8.04,92.9,75.2,87.8,4,1,2,0,Middle,Below Graduate,No,Male,Placed
+SYN00880,6.72,62.2,67.8,64.1,1,1,5,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00881,9.07,86.3,81.1,68.1,2,2,0,0,Lower-Middle,Postgraduate,No,Male,Not Placed
+SYN00882,7.54,64.9,71.2,62.8,2,2,2,0,Low,Graduate,No,Male,Placed
+SYN00883,7.11,80.0,58.6,55.5,2,2,1,2,Low,Below Graduate,Yes,Male,Not Placed
+SYN00884,6.82,59.7,72.0,55.5,0,2,1,0,Low,Postgraduate,Yes,Female,Placed
+SYN00885,7.24,74.9,69.7,68.2,2,2,2,0,Middle,Below Graduate,No,Female,Placed
+SYN00886,7.9,76.7,75.1,56.7,2,2,3,1,High,Postgraduate,Yes,Female,Placed
+SYN00887,6.75,71.7,61.8,39.6,0,0,1,0,Low,Graduate,Yes,Female,Placed
+SYN00888,7.49,78.4,75.4,62.4,4,2,2,0,Middle,Postgraduate,Yes,Female,Placed
+SYN00889,6.8,80.0,76.3,64.7,3,0,1,0,Low,Below Graduate,No,Male,Not Placed
+SYN00890,6.2,72.4,69.5,49.3,0,0,0,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00891,8.29,83.1,84.5,63.7,1,2,3,0,Middle,Graduate,Yes,Male,Placed
+SYN00892,6.93,65.3,72.8,50.9,2,0,2,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00893,7.51,86.1,76.5,59.9,0,1,2,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00894,7.01,66.0,57.2,67.7,3,0,1,1,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00895,5.9,77.6,63.1,36.4,0,2,1,2,High,Graduate,Yes,Male,Placed
+SYN00896,8.73,99.0,83.6,85.6,4,2,4,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00897,8.52,87.4,90.3,77.4,1,2,4,0,Low,Below Graduate,Yes,Female,Placed
+SYN00898,7.1,85.3,73.8,71.9,2,2,4,0,Low,Below Graduate,No,Female,Placed
+SYN00899,6.92,52.8,71.0,49.1,3,1,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00900,6.87,70.8,71.5,53.5,1,3,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00901,8.54,93.3,92.2,75.2,3,2,2,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN00902,6.86,77.1,68.7,51.4,3,0,1,0,Middle,Graduate,Yes,Female,Not Placed
+SYN00903,6.79,63.2,73.9,,1,1,3,2,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN00904,9.53,88.8,77.5,84.7,1,1,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00905,6.51,57.6,60.3,79.0,0,1,1,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN00906,8.6,91.0,71.7,82.0,3,0,1,0,Middle,Graduate,Yes,Male,Placed
+SYN00907,6.12,50.7,65.1,27.4,1,1,1,0,Lower-Middle,Postgraduate,Yes,Female,Not Placed
+SYN00908,7.76,84.1,79.7,76.2,3,0,1,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN00909,9.39,99.0,97.2,80.9,2,0,5,0,High,Postgraduate,Yes,Female,Not Placed
+SYN00910,8.43,71.8,68.2,78.4,0,1,3,0,Middle,Graduate,Yes,Male,Placed
+SYN00911,7.36,77.8,69.0,70.3,0,1,1,0,High,Graduate,Yes,Male,Placed
+SYN00912,6.54,62.6,61.1,42.6,4,0,0,2,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN00913,8.0,84.5,90.4,78.4,3,0,1,1,Middle,Below Graduate,Yes,Male,Placed
+SYN00914,6.02,61.4,77.2,46.2,1,0,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00915,6.77,75.0,74.4,59.0,2,1,1,0,Low,Below Graduate,Yes,Male,Placed
+SYN00916,6.29,53.5,63.5,52.5,0,0,3,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN00917,8.74,75.9,93.5,87.1,2,2,1,0,Middle,Graduate,No,Female,Placed
+SYN00918,8.22,80.5,77.6,80.8,4,2,5,0,Low,Graduate,Yes,Female,Placed
+SYN00919,7.2,75.3,72.0,,2,2,1,0,High,Graduate,Yes,Male,Not Placed
+SYN00920,5.79,64.4,59.9,69.7,0,1,0,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN00921,8.3,80.4,75.9,,1,2,4,0,Low,Graduate,Yes,Male,Placed
+SYN00922,7.16,82.8,68.3,41.5,1,0,3,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00923,6.38,64.1,53.9,35.1,1,1,1,0,Low,Postgraduate,Yes,Male,Not Placed
+SYN00924,5.2,62.9,66.2,53.9,3,2,1,1,Upper-Middle,Below Graduate,No,Female,Not Placed
+SYN00925,6.92,70.4,70.8,52.2,1,0,2,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00926,5.4,66.4,67.7,45.4,0,0,1,1,Low,Below Graduate,No,Female,Not Placed
+SYN00927,6.81,72.9,56.8,48.3,1,1,0,1,Middle,Postgraduate,No,Male,Not Placed
+SYN00928,7.74,83.0,90.7,64.1,2,0,0,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00929,7.53,75.8,59.2,48.8,0,0,1,0,Middle,Postgraduate,Yes,Male,Placed
+SYN00930,7.37,67.5,68.7,68.2,2,1,4,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00931,6.59,57.9,62.6,51.2,3,1,4,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00932,7.49,74.5,81.4,64.6,2,1,1,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00933,8.42,87.4,88.0,84.2,2,2,1,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00934,6.81,75.1,68.0,52.3,1,0,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00935,7.55,80.0,72.7,51.1,0,1,2,0,High,Graduate,Yes,Female,Not Placed
+SYN00936,5.52,65.4,50.9,28.9,1,1,2,1,Middle,Below Graduate,No,Male,Not Placed
+SYN00937,8.33,79.1,91.9,100.0,3,1,0,0,Middle,Graduate,Yes,Female,Placed
+SYN00938,7.15,69.3,72.6,68.1,0,0,5,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00939,7.84,74.8,89.6,83.6,4,0,3,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00940,7.46,78.1,76.4,,2,2,1,1,High,Below Graduate,Yes,Female,Not Placed
+SYN00941,7.69,65.6,57.7,66.8,0,2,1,0,Low,,No,Male,Not Placed
+SYN00942,7.06,80.7,68.5,60.0,0,0,3,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00943,6.99,62.0,71.8,43.2,0,2,2,1,Middle,Graduate,Yes,Female,Not Placed
+SYN00944,7.51,80.8,78.7,66.7,4,1,2,0,Middle,Below Graduate,No,Female,Not Placed
+SYN00945,6.76,73.7,62.7,63.6,2,0,2,2,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00946,7.47,79.6,69.1,76.1,4,0,2,0,Low,Below Graduate,No,Male,Placed
+SYN00947,6.73,60.2,74.2,47.0,1,0,2,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00948,6.89,73.2,78.2,61.0,2,1,3,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00949,6.8,61.7,72.0,61.7,0,1,2,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00950,7.62,64.6,68.7,55.4,2,2,2,0,Middle,Graduate,Yes,Male,Placed
+SYN00951,5.83,66.5,64.9,48.9,1,0,3,1,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00952,7.11,79.7,65.7,66.3,1,1,0,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN00953,7.48,78.6,73.1,64.0,3,0,1,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN00954,6.89,73.7,51.6,56.3,1,0,1,2,Middle,Below Graduate,No,Male,Not Placed
+SYN00955,6.02,73.9,61.8,53.5,3,1,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN00956,8.19,73.8,71.4,56.5,0,1,1,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00957,6.68,60.6,80.5,43.0,4,0,3,0,Low,Postgraduate,No,Male,Not Placed
+SYN00958,7.28,69.5,58.5,44.5,1,1,1,2,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00959,6.19,58.4,56.3,47.9,2,0,0,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00960,8.52,89.3,93.8,93.1,4,2,2,1,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN00961,8.42,83.4,92.4,59.2,2,2,2,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00962,6.99,73.5,73.5,65.5,3,1,2,0,Low,Graduate,Yes,Female,Placed
+SYN00963,8.46,99.0,86.3,80.0,3,1,3,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00964,5.2,49.3,53.2,21.7,0,0,1,3,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00965,4.97,53.2,48.6,29.4,0,0,0,0,Middle,Below Graduate,No,Male,Not Placed
+SYN00966,6.53,63.9,70.9,70.4,1,2,0,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00967,6.31,61.0,57.1,,1,1,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN00968,6.41,70.4,75.2,40.6,3,1,1,0,Middle,Graduate,Yes,Male,Placed
+SYN00969,8.28,79.9,62.4,68.2,2,1,1,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00970,8.92,77.9,84.3,63.4,2,0,3,0,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN00971,6.95,65.3,64.7,53.7,2,0,2,1,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00972,8.09,75.0,74.2,58.2,0,2,3,0,Middle,Graduate,No,Female,Placed
+SYN00973,7.13,66.1,61.8,59.7,1,2,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN00974,7.92,72.1,67.6,59.0,2,1,3,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN00975,6.49,65.6,73.6,54.3,3,2,2,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00976,7.55,83.5,79.7,70.1,3,1,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00977,7.58,74.5,71.0,56.8,3,0,2,2,Low,Below Graduate,Yes,Female,Not Placed
+SYN00978,9.18,86.0,79.7,,3,0,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00979,6.59,69.0,68.3,55.7,1,2,0,1,High,Graduate,No,Female,Not Placed
+SYN00980,7.28,70.0,69.4,69.7,2,2,1,0,Middle,Below Graduate,Yes,Male,Placed
+SYN00981,6.76,76.0,71.4,44.8,2,2,3,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN00982,5.89,65.2,69.8,,1,2,2,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN00983,8.07,82.7,78.3,65.4,4,0,2,1,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN00984,6.25,81.1,65.3,58.2,0,0,0,1,Upper-Middle,Graduate,No,Female,Not Placed
+SYN00985,4.81,50.8,47.7,37.6,1,0,0,1,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00986,4.5,43.8,51.4,29.3,1,1,2,1,Middle,Below Graduate,No,Female,Not Placed
+SYN00987,7.74,85.7,82.4,84.5,2,2,2,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00988,8.21,83.9,78.0,70.9,2,1,2,0,Low,Postgraduate,Yes,Female,Placed
+SYN00989,8.71,87.6,99.0,90.1,2,0,2,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN00990,7.68,73.3,68.5,60.9,2,1,3,0,High,Postgraduate,Yes,Male,Placed
+SYN00991,5.35,66.2,67.9,50.3,0,1,2,2,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN00992,6.28,71.6,59.1,59.0,0,1,0,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN00993,6.18,73.6,77.9,71.3,3,1,3,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN00994,5.35,57.6,70.1,55.4,2,1,1,0,Upper-Middle,Below Graduate,No,Male,Not Placed
+SYN00995,9.45,90.3,82.3,74.1,4,1,2,0,Middle,Below Graduate,Yes,Female,Placed
+SYN00996,10.0,87.7,82.4,78.9,4,3,2,0,Middle,Below Graduate,No,Male,Placed
+SYN00997,7.55,78.3,62.2,64.8,4,1,1,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN00998,6.86,76.4,69.5,53.0,3,0,0,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN00999,5.86,52.7,65.5,36.3,0,2,2,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01000,8.78,84.9,75.4,57.9,3,2,2,0,Low,Graduate,Yes,Female,Placed
+SYN01001,7.0,78.1,73.6,46.9,1,1,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN01002,7.17,78.3,62.9,74.7,1,1,2,2,High,Postgraduate,Yes,Female,Placed
+SYN01003,7.67,80.2,75.9,59.4,0,3,3,1,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01004,6.3,56.7,59.1,70.7,1,0,0,1,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01005,6.9,80.8,70.7,65.2,2,2,1,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01006,6.15,67.7,60.0,43.7,1,1,2,1,High,Graduate,Yes,Male,Not Placed
+SYN01007,7.86,78.3,75.8,58.5,1,2,1,0,High,Below Graduate,Yes,Female,Placed
+SYN01008,7.27,68.8,67.3,58.9,0,1,2,0,Middle,Below Graduate,No,Male,Not Placed
+SYN01009,7.99,85.1,75.6,89.8,5,0,0,0,Middle,Graduate,Yes,Male,Placed
+SYN01010,6.96,75.7,61.1,71.8,2,0,2,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01011,7.58,69.2,77.1,61.0,1,2,4,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01012,5.83,67.3,58.0,36.3,2,0,2,3,Low,Postgraduate,Yes,Male,Not Placed
+SYN01013,8.1,67.3,61.8,59.7,4,0,0,0,Low,Below Graduate,Yes,Male,Placed
+SYN01014,5.49,59.9,60.1,42.7,2,0,2,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN01015,6.59,59.3,75.7,66.2,0,2,3,0,Upper-Middle,Graduate,No,Female,Not Placed
+SYN01016,7.01,66.6,65.1,74.7,5,2,5,0,Low,Below Graduate,Yes,Male,Placed
+SYN01017,8.05,83.2,81.9,63.1,0,0,2,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01018,4.74,73.1,53.2,38.5,1,3,0,1,Middle,Below Graduate,Yes,Female,Placed
+SYN01019,6.83,72.8,72.6,71.4,0,1,2,1,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN01020,8.37,74.5,83.1,59.9,1,1,4,0,Low,Below Graduate,Yes,Male,Placed
+SYN01021,6.47,70.0,72.3,56.3,2,1,1,1,Middle,Below Graduate,Yes,Male,Placed
+SYN01022,6.78,74.2,60.5,61.7,0,1,3,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01023,7.46,66.3,67.6,54.0,2,1,1,2,Middle,Postgraduate,Yes,Male,Placed
+SYN01024,7.21,71.2,80.2,52.9,3,0,2,0,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01025,6.78,72.4,56.5,42.2,0,0,0,2,Low,Postgraduate,No,Female,Not Placed
+SYN01026,7.41,69.0,79.7,72.4,0,2,1,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01027,8.73,79.1,78.8,88.2,2,0,2,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN01028,6.13,67.3,66.1,49.5,1,1,1,0,Upper-Middle,Graduate,No,Male,Placed
+SYN01029,6.49,73.1,60.4,53.5,1,1,0,0,Middle,Postgraduate,No,Female,Not Placed
+SYN01030,5.81,59.6,57.4,39.4,0,0,1,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01031,7.49,82.4,74.2,70.4,3,3,2,0,Middle,Below Graduate,No,Male,Placed
+SYN01032,7.29,77.3,73.1,54.0,2,0,2,1,Middle,Graduate,Yes,Male,Placed
+SYN01033,6.06,77.0,63.8,49.8,0,0,1,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN01034,7.1,76.8,78.5,64.7,1,1,3,1,High,Below Graduate,Yes,Female,Not Placed
+SYN01035,6.3,64.5,59.6,43.1,1,0,1,2,Middle,Below Graduate,No,Male,Not Placed
+SYN01036,5.8,76.5,59.3,46.9,0,1,3,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01037,6.11,58.2,60.7,42.3,1,1,0,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN01038,5.82,55.5,54.8,45.4,3,1,4,3,Low,Below Graduate,Yes,Female,Not Placed
+SYN01039,8.9,86.8,90.3,71.0,2,1,4,0,Middle,Postgraduate,Yes,Female,Placed
+SYN01040,6.32,75.0,65.8,58.8,0,0,1,1,Middle,Graduate,No,Female,Not Placed
+SYN01041,7.78,79.1,72.8,49.2,2,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01042,6.41,65.9,67.5,65.0,1,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01043,8.1,70.6,76.8,69.6,2,1,3,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01044,6.29,65.8,53.4,54.2,2,2,3,0,Middle,Graduate,Yes,Female,Not Placed
+SYN01045,6.37,80.9,64.6,67.0,2,1,0,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01046,7.82,69.8,82.1,54.2,2,2,2,0,High,Graduate,No,Female,Placed
+SYN01047,9.06,89.2,89.2,77.4,3,2,0,0,Low,Below Graduate,No,Male,Placed
+SYN01048,8.0,75.9,65.3,57.6,4,2,2,2,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01049,6.86,64.3,68.7,51.3,3,1,3,0,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN01050,7.43,81.4,74.2,73.8,3,1,0,0,Middle,Postgraduate,Yes,Male,Placed
+SYN01051,8.67,94.2,83.8,78.3,3,1,1,0,Middle,Graduate,Yes,Female,Placed
+SYN01052,5.99,64.0,51.9,47.5,0,0,1,1,Middle,Graduate,Yes,Female,Not Placed
+SYN01053,6.43,64.2,74.6,29.4,2,0,3,0,High,Graduate,Yes,Female,Not Placed
+SYN01054,7.29,61.4,56.5,53.9,2,1,2,1,Lower-Middle,Graduate,No,Female,Not Placed
+SYN01055,6.7,72.6,63.6,65.9,1,1,0,1,Middle,Postgraduate,No,Male,Not Placed
+SYN01056,7.16,66.3,68.1,54.8,1,1,0,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN01057,6.1,73.8,71.0,38.2,0,0,1,1,Lower-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01058,8.47,95.7,86.0,69.5,3,2,1,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01059,5.55,72.6,53.1,17.1,2,0,1,1,Low,Graduate,Yes,Male,Not Placed
+SYN01060,7.08,67.2,80.7,48.7,2,0,2,1,Middle,Postgraduate,No,Male,Not Placed
+SYN01061,8.64,86.2,72.0,81.0,2,0,2,0,Middle,Graduate,Yes,Male,Placed
+SYN01062,7.11,79.4,73.9,54.4,1,1,4,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01063,6.52,71.1,67.7,45.0,0,0,2,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01064,5.97,61.5,55.9,24.2,0,0,2,1,Middle,Below Graduate,No,Female,Not Placed
+SYN01065,6.93,79.0,73.9,42.8,1,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01066,7.09,65.9,60.6,62.4,0,0,1,1,Low,Below Graduate,No,Female,Placed
+SYN01067,7.73,74.4,76.2,67.8,2,0,2,0,Low,Graduate,Yes,Male,Placed
+SYN01068,5.93,54.0,49.2,32.9,2,3,1,0,Middle,Postgraduate,Yes,Female,Placed
+SYN01069,8.15,87.2,83.5,63.3,2,1,3,0,High,Below Graduate,Yes,Female,Not Placed
+SYN01070,6.79,71.4,68.2,61.0,3,0,1,1,Low,Below Graduate,Yes,Male,Not Placed
+SYN01071,7.25,78.7,81.4,51.3,1,1,4,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01072,8.6,87.3,83.6,57.8,2,1,1,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01073,7.23,73.2,78.2,53.8,1,1,2,1,Upper-Middle,Below Graduate,No,Male,Placed
+SYN01074,6.84,68.3,69.9,57.2,2,2,1,1,Middle,Below Graduate,Yes,Male,Placed
+SYN01075,6.17,74.7,67.2,59.3,1,1,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01076,7.43,71.7,76.0,65.8,2,2,4,0,Middle,Graduate,No,Male,Placed
+SYN01077,7.12,66.1,78.0,45.0,0,1,1,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01078,5.81,68.8,66.4,51.4,0,1,1,1,Low,Below Graduate,No,Male,Placed
+SYN01079,6.02,54.6,42.5,35.3,2,1,0,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01080,7.15,59.6,59.1,53.0,0,2,1,1,Low,Below Graduate,No,Female,Placed
+SYN01081,7.68,72.3,85.5,62.1,3,2,2,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN01082,7.44,74.8,62.9,55.6,2,1,0,1,Low,,Yes,Male,Placed
+SYN01083,8.42,81.0,85.3,46.0,1,1,1,0,Low,Below Graduate,No,Male,Not Placed
+SYN01084,9.39,74.8,90.2,92.0,2,0,3,0,Low,Below Graduate,No,Male,Placed
+SYN01085,8.09,77.0,72.6,71.3,4,1,3,0,Lower-Middle,Postgraduate,No,Male,Placed
+SYN01086,7.73,91.3,69.3,61.8,4,2,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01087,8.59,75.4,72.4,72.7,2,2,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN01088,9.1,85.9,98.4,74.8,3,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01089,8.52,94.3,80.4,76.6,2,3,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01090,7.55,86.8,74.8,63.5,2,1,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01091,8.1,87.4,72.8,72.6,1,1,0,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01092,6.85,56.1,78.7,50.5,1,1,1,1,Middle,,Yes,Female,Placed
+SYN01093,7.11,82.1,68.1,49.7,4,0,3,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01094,7.11,74.3,64.4,66.5,1,1,1,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01095,7.54,95.3,87.8,65.2,1,2,2,1,Upper-Middle,Graduate,Yes,Female,Placed
+SYN01096,5.85,61.5,68.0,50.7,0,1,1,0,Low,Below Graduate,No,Female,Placed
+SYN01097,7.08,61.1,63.7,64.1,2,0,3,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01098,4.96,58.0,48.0,28.1,0,1,0,1,High,Graduate,Yes,Male,Not Placed
+SYN01099,8.94,88.9,96.1,74.7,3,0,3,0,High,Postgraduate,Yes,Female,Placed
+SYN01100,6.28,75.4,69.5,60.3,0,1,2,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01101,7.46,84.5,66.0,51.1,3,1,2,2,Middle,Graduate,Yes,Female,Placed
+SYN01102,8.71,84.3,71.3,78.0,1,0,2,0,Lower-Middle,Graduate,No,Male,Placed
+SYN01103,7.7,75.4,67.5,56.5,2,1,2,1,Middle,Below Graduate,No,Male,Not Placed
+SYN01104,7.95,86.7,73.5,83.6,2,1,3,0,Low,Graduate,Yes,Female,Placed
+SYN01105,5.36,60.5,46.8,51.3,3,2,1,1,Low,Below Graduate,No,Male,Not Placed
+SYN01106,9.32,91.5,84.4,90.1,3,1,5,0,Middle,Graduate,Yes,Female,Placed
+SYN01107,8.31,88.1,73.9,57.5,4,1,2,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01108,7.53,83.6,71.1,61.4,2,0,0,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN01109,8.13,91.1,93.6,65.1,4,1,3,1,Lower-Middle,Below Graduate,No,Female,Placed
+SYN01110,6.32,65.2,62.5,46.8,1,1,2,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01111,7.66,60.5,70.2,36.0,2,1,2,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN01112,8.55,85.1,87.3,62.0,4,1,2,0,Middle,Graduate,Yes,Male,Placed
+SYN01113,4.74,54.9,55.9,50.2,2,1,0,0,Middle,Graduate,Yes,Male,Not Placed
+SYN01114,7.68,76.9,78.3,69.5,2,1,0,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01115,8.56,74.6,78.5,62.7,2,2,4,0,Middle,,Yes,Female,Placed
+SYN01116,8.19,87.6,86.6,73.5,2,1,2,0,Low,Below Graduate,Yes,Female,Placed
+SYN01117,5.83,56.7,78.9,32.8,2,1,2,1,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01118,8.59,80.8,92.4,79.5,4,2,0,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01119,6.78,78.5,62.1,50.8,1,1,0,1,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01120,6.93,66.2,72.4,69.0,1,2,2,0,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01121,6.73,67.0,59.9,44.9,0,1,1,0,High,Postgraduate,Yes,Female,Placed
+SYN01122,6.14,70.2,65.4,48.6,2,1,2,1,Lower-Middle,,Yes,Male,Not Placed
+SYN01123,8.26,85.5,69.1,51.9,1,1,2,0,High,Graduate,Yes,Female,Placed
+SYN01124,6.11,70.3,56.3,44.5,2,0,1,0,Middle,Postgraduate,Yes,Female,Placed
+SYN01125,7.59,80.9,79.4,69.7,3,0,1,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01126,6.26,73.4,73.6,49.4,1,0,0,0,Middle,Graduate,Yes,Male,Not Placed
+SYN01127,5.17,71.7,64.8,42.3,3,2,3,1,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01128,6.73,71.5,72.5,57.1,0,0,3,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01129,8.31,64.9,76.3,77.3,4,2,1,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN01130,6.96,66.6,68.9,58.3,2,0,0,1,Low,Graduate,Yes,Male,Placed
+SYN01131,7.5,78.9,69.4,70.7,0,2,1,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01132,7.68,77.4,84.5,73.3,4,0,2,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN01133,8.02,92.8,87.7,81.7,3,1,2,0,Middle,Graduate,Yes,Male,Placed
+SYN01134,7.32,71.5,69.5,51.1,1,2,2,1,Middle,Graduate,Yes,Male,Placed
+SYN01135,7.04,65.4,62.1,46.7,0,1,1,2,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN01136,7.82,80.6,82.2,59.0,0,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01137,7.87,75.9,74.8,70.1,4,0,5,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN01138,5.94,65.0,62.4,51.1,0,0,0,2,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01139,6.29,70.3,66.0,51.3,0,2,3,0,Low,Graduate,No,Male,Not Placed
+SYN01140,6.17,59.8,66.0,60.0,2,1,3,2,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01141,6.32,71.0,65.4,52.6,0,1,2,0,Middle,Graduate,No,Male,Not Placed
+SYN01142,5.97,73.3,68.8,59.6,0,1,0,1,Middle,Below Graduate,No,Male,Not Placed
+SYN01143,7.9,81.6,79.0,76.9,3,0,2,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01144,5.5,69.2,70.3,48.4,1,1,0,2,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01145,5.16,53.5,66.1,43.8,0,0,1,2,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01146,6.84,61.6,65.9,62.7,1,1,0,2,Middle,Below Graduate,Yes,Male,Not Placed
+SYN01147,6.94,78.8,76.9,50.0,1,1,3,1,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01148,5.32,68.0,62.8,45.8,1,0,2,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01149,6.53,69.6,77.3,56.0,0,1,3,3,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01150,6.81,76.0,68.2,43.6,1,2,1,1,High,Graduate,Yes,Female,Not Placed
+SYN01151,6.45,74.5,69.3,59.9,1,1,0,1,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01152,7.79,71.9,74.2,50.4,1,1,2,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01153,5.71,64.9,67.5,48.9,2,2,4,0,Middle,Graduate,Yes,Female,Not Placed
+SYN01154,7.52,86.2,77.3,76.6,3,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01155,7.68,84.9,81.2,58.8,1,1,2,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01156,6.4,59.7,67.5,51.9,0,0,1,2,Lower-Middle,Postgraduate,No,Female,Not Placed
+SYN01157,7.43,74.0,81.5,61.6,1,2,1,0,Middle,Below Graduate,No,Female,Placed
+SYN01158,6.87,71.5,70.9,54.0,4,1,3,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01159,7.76,85.4,78.2,78.5,1,1,2,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01160,6.7,70.7,73.9,46.5,1,0,2,0,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01161,7.57,76.1,72.2,89.0,2,2,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01162,7.82,81.0,78.6,59.5,2,0,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01163,8.28,81.9,90.2,65.9,2,1,3,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01164,8.3,83.0,90.9,65.3,4,3,1,0,Middle,Graduate,Yes,Female,Placed
+SYN01165,8.53,67.6,77.6,72.5,2,2,1,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN01166,6.92,69.2,68.3,53.4,2,2,2,2,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01167,7.71,79.1,74.8,53.3,3,0,2,0,Low,Below Graduate,No,Male,Not Placed
+SYN01168,7.29,74.9,73.4,65.7,2,2,1,0,Middle,Graduate,Yes,Male,Placed
+SYN01169,8.92,90.2,81.0,74.7,4,1,2,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN01170,7.36,78.3,81.7,66.7,3,1,3,0,Middle,Postgraduate,Yes,Female,Not Placed
+SYN01171,6.8,82.5,71.7,64.0,4,2,3,1,Lower-Middle,Graduate,No,Male,Placed
+SYN01172,6.71,65.0,61.7,57.4,3,1,3,0,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN01173,5.73,53.8,73.7,68.2,0,1,0,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01174,7.81,72.5,77.5,50.6,3,0,1,2,Middle,Graduate,Yes,Male,Not Placed
+SYN01175,7.33,63.6,58.7,43.6,2,2,1,0,Middle,Graduate,No,Male,Placed
+SYN01176,8.61,76.1,74.6,69.8,4,1,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01177,6.21,65.8,72.9,66.1,0,2,1,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN01178,7.66,82.9,85.3,77.6,2,0,1,2,Middle,,No,Female,Not Placed
+SYN01179,7.72,91.6,87.0,84.3,1,2,2,1,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN01180,5.19,61.4,65.0,29.2,1,0,1,1,Upper-Middle,Graduate,No,Male,Not Placed
+SYN01181,9.48,99.0,97.7,76.1,2,2,1,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01182,7.29,66.5,70.2,47.9,2,1,4,0,Low,Graduate,Yes,Female,Placed
+SYN01183,6.94,65.7,75.7,54.5,0,1,2,1,Middle,Graduate,Yes,Female,Not Placed
+SYN01184,7.38,84.1,79.3,79.7,3,1,3,0,Lower-Middle,Postgraduate,Yes,Female,Placed
+SYN01185,8.8,69.2,83.0,65.8,2,1,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN01186,7.37,70.9,68.6,62.0,2,2,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN01187,8.88,85.5,85.1,77.9,4,0,2,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN01188,7.64,76.7,84.8,,1,1,3,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN01189,8.86,87.3,85.1,79.8,3,2,2,0,Middle,Graduate,No,Male,Placed
+SYN01190,7.65,73.9,76.9,55.9,2,3,4,1,High,Below Graduate,Yes,Female,Placed
+SYN01191,9.27,88.9,90.0,79.0,3,1,1,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01192,8.66,88.8,76.6,64.6,4,1,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01193,5.23,62.5,51.8,34.4,1,1,1,1,High,Postgraduate,Yes,Male,Not Placed
+SYN01194,9.43,91.5,99.0,90.8,2,0,2,0,Upper-Middle,,Yes,Male,Placed
+SYN01195,6.89,59.9,62.5,55.7,3,0,4,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN01196,8.53,82.7,85.7,,2,1,5,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01197,6.8,74.6,66.2,63.6,0,0,0,0,Low,Graduate,No,Male,Not Placed
+SYN01198,8.49,83.8,88.0,63.9,1,0,2,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN01199,7.12,65.3,73.6,58.6,0,2,2,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN01200,7.52,66.1,75.8,65.0,0,1,2,0,Middle,Below Graduate,No,Male,Placed
+SYN01201,7.03,74.9,62.7,52.9,1,1,3,0,Middle,Graduate,Yes,Male,Placed
+SYN01202,7.96,80.4,81.6,70.2,2,1,4,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01203,7.23,83.2,80.8,62.7,3,1,2,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01204,8.06,77.4,81.1,87.1,3,2,5,1,Middle,Graduate,Yes,Female,Placed
+SYN01205,5.15,50.0,54.6,35.6,1,0,2,2,Lower-Middle,Graduate,Yes,Female,Not Placed
+SYN01206,6.73,75.8,74.3,48.8,1,1,1,0,Upper-Middle,Below Graduate,No,Male,Placed
+SYN01207,7.13,90.6,79.4,72.8,3,0,1,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01208,6.72,78.3,71.5,58.2,3,1,3,0,Low,Below Graduate,Yes,Female,Placed
+SYN01209,8.23,82.9,83.0,73.1,3,2,1,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01210,6.11,76.0,65.5,50.5,2,2,1,0,High,Graduate,Yes,Male,Not Placed
+SYN01211,6.67,63.1,88.2,72.1,0,2,1,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01212,7.3,75.9,78.8,67.7,3,1,2,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01213,5.14,40.0,53.1,47.5,2,0,0,2,Low,Below Graduate,No,Female,Not Placed
+SYN01214,6.96,90.7,82.0,57.0,2,1,0,0,Upper-Middle,,Yes,Female,Not Placed
+SYN01215,6.79,79.7,65.9,53.7,1,0,3,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01216,7.08,69.5,65.2,62.6,1,0,1,0,Middle,Graduate,No,Female,Not Placed
+SYN01217,8.38,80.3,77.5,65.2,1,1,4,0,High,Below Graduate,No,Male,Placed
+SYN01218,7.29,72.5,73.9,93.9,2,1,3,0,Low,Postgraduate,Yes,Male,Placed
+SYN01219,8.23,81.4,83.6,69.0,3,2,4,0,Middle,Graduate,Yes,Female,Placed
+SYN01220,6.59,84.1,60.6,60.8,2,2,2,1,Middle,Below Graduate,No,Female,Placed
+SYN01221,7.49,83.4,92.0,86.8,3,1,4,1,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01222,7.81,76.8,83.3,55.9,2,2,3,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01223,7.55,62.0,74.7,44.3,1,0,2,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01224,6.65,74.7,53.2,45.2,1,1,3,1,Low,Below Graduate,No,Female,Placed
+SYN01225,6.27,68.9,62.2,60.3,1,1,4,1,Middle,Postgraduate,No,Male,Not Placed
+SYN01226,8.31,71.8,89.3,54.7,2,2,2,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01227,5.95,66.1,96.6,64.9,4,0,3,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN01228,5.8,57.2,70.6,53.2,3,1,1,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01229,5.35,61.3,66.9,59.6,2,0,2,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01230,7.78,79.9,80.1,78.6,2,2,2,0,Low,Postgraduate,Yes,Female,Placed
+SYN01231,6.5,65.8,61.3,57.3,0,1,0,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01232,7.39,81.7,81.5,75.9,2,1,2,0,Middle,Graduate,Yes,Female,Placed
+SYN01233,8.12,83.6,74.0,78.5,1,0,3,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01234,5.91,69.1,52.9,41.5,3,0,0,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01235,7.28,70.7,62.6,49.2,0,2,3,0,Lower-Middle,Below Graduate,No,Female,Not Placed
+SYN01236,6.91,88.9,75.0,53.0,2,0,2,1,Low,Below Graduate,No,Female,Not Placed
+SYN01237,7.37,74.1,75.1,63.8,1,2,2,0,Middle,Postgraduate,Yes,Female,Placed
+SYN01238,8.46,78.9,83.0,75.2,2,1,3,1,Middle,Graduate,No,Female,Not Placed
+SYN01239,6.34,57.6,61.7,,2,2,2,2,Middle,Graduate,Yes,Female,Placed
+SYN01240,7.26,75.3,67.2,64.3,3,1,2,0,Low,Graduate,No,Male,Placed
+SYN01241,8.14,73.5,77.5,71.6,2,1,3,2,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01242,7.36,72.3,64.5,62.9,2,1,2,1,Low,Below Graduate,No,Female,Not Placed
+SYN01243,6.54,61.9,62.2,73.1,1,2,0,0,Middle,Graduate,No,Female,Not Placed
+SYN01244,8.27,77.5,71.3,66.3,2,1,1,0,Lower-Middle,Graduate,No,Female,Placed
+SYN01245,6.95,70.3,69.3,55.6,3,1,0,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01246,7.45,75.6,79.6,50.0,2,3,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01247,7.08,80.1,78.8,72.4,1,2,3,0,Low,Below Graduate,No,Female,Placed
+SYN01248,7.26,80.4,56.1,41.4,1,1,2,0,Middle,,No,Male,Not Placed
+SYN01249,7.66,73.5,76.0,78.7,3,1,2,0,Low,Graduate,No,Male,Placed
+SYN01250,7.9,81.6,92.6,85.4,1,2,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN01251,7.16,71.5,67.5,48.2,1,2,0,1,Middle,Below Graduate,Yes,Female,Placed
+SYN01252,5.94,58.4,64.4,48.5,2,0,1,0,Upper-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01253,6.75,66.8,69.8,70.4,1,1,0,0,Low,Below Graduate,No,Male,Placed
+SYN01254,7.36,82.1,82.3,71.3,0,1,1,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN01255,4.62,63.5,66.4,28.5,3,0,3,1,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01256,6.94,86.2,67.9,48.4,0,1,3,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN01257,5.9,65.6,61.6,33.0,1,0,2,2,Middle,Graduate,Yes,Male,Not Placed
+SYN01258,8.17,73.2,77.8,71.4,1,0,2,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN01259,7.9,73.5,73.1,,1,2,1,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN01260,5.59,56.4,50.7,17.6,0,1,1,3,Middle,Postgraduate,Yes,Female,Not Placed
+SYN01261,7.92,83.2,84.5,61.2,3,0,3,0,Upper-Middle,Postgraduate,No,Female,Placed
+SYN01262,6.45,61.7,76.5,66.6,2,0,2,0,Low,Below Graduate,No,Female,Not Placed
+SYN01263,7.89,69.3,68.5,67.0,3,2,0,0,Lower-Middle,Graduate,No,Male,Placed
+SYN01264,6.39,65.3,64.9,57.0,1,0,2,0,Low,Graduate,Yes,Male,Not Placed
+SYN01265,6.07,74.5,66.9,47.9,4,2,0,2,High,Graduate,Yes,Male,Not Placed
+SYN01266,6.3,74.4,57.5,42.0,0,1,2,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01267,7.31,78.4,56.0,53.9,0,0,1,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01268,7.34,78.9,69.4,60.7,4,1,0,0,Upper-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01269,8.13,77.5,73.7,67.2,2,1,3,0,High,Postgraduate,Yes,Male,Placed
+SYN01270,6.49,75.2,59.1,64.2,2,0,2,0,Low,Postgraduate,No,Male,Placed
+SYN01271,7.33,65.3,71.4,56.1,2,0,2,1,Upper-Middle,Graduate,No,Female,Not Placed
+SYN01272,6.63,61.7,78.3,66.0,2,0,4,1,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01273,9.36,94.7,95.5,84.2,3,1,3,0,Low,Graduate,Yes,Male,Not Placed
+SYN01274,6.56,62.2,65.4,38.5,0,1,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01275,6.88,68.3,54.8,58.2,2,2,2,2,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01276,10.0,99.0,99.0,97.4,4,2,3,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01277,7.21,79.3,76.7,69.1,3,2,3,1,Middle,Postgraduate,Yes,Female,Placed
+SYN01278,6.23,67.8,62.9,33.4,3,0,1,1,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01279,8.54,83.7,89.3,85.4,2,1,2,0,Low,Graduate,Yes,Male,Placed
+SYN01280,5.92,65.9,57.4,56.4,0,0,0,0,Low,Below Graduate,No,Female,Not Placed
+SYN01281,6.99,76.6,58.6,67.4,4,1,2,1,Low,Below Graduate,No,Female,Placed
+SYN01282,7.19,73.4,63.9,49.3,0,2,2,1,Middle,Graduate,Yes,Female,Not Placed
+SYN01283,6.54,66.1,70.8,64.9,2,0,0,2,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01284,8.47,84.9,84.2,67.8,2,0,2,0,Lower-Middle,,Yes,Male,Placed
+SYN01285,7.92,94.6,69.0,86.6,1,1,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN01286,7.83,83.3,71.0,65.2,3,1,2,0,Middle,Postgraduate,No,Female,Placed
+SYN01287,7.43,80.6,73.6,80.3,2,0,0,1,Middle,Below Graduate,No,Female,Not Placed
+SYN01288,6.87,69.0,63.1,53.5,2,0,1,1,High,Postgraduate,Yes,Male,Not Placed
+SYN01289,8.29,84.2,79.5,81.0,1,0,1,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01290,8.34,89.8,80.6,66.7,2,2,2,0,Upper-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01291,6.57,77.7,67.0,61.7,1,2,2,1,Low,Below Graduate,No,Male,Not Placed
+SYN01292,8.24,90.1,81.9,87.1,2,3,2,0,Middle,Below Graduate,Yes,Male,Placed
+SYN01293,8.15,89.8,83.3,75.3,2,0,1,0,High,Graduate,Yes,Female,Placed
+SYN01294,6.92,84.9,75.6,72.2,4,0,2,0,Upper-Middle,Postgraduate,Yes,Female,Placed
+SYN01295,6.68,78.1,75.7,58.4,1,0,3,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01296,7.57,74.8,74.7,62.3,0,2,2,0,Middle,Graduate,Yes,Female,Placed
+SYN01297,6.26,68.6,60.7,57.5,3,1,3,3,Lower-Middle,Graduate,No,Female,Not Placed
+SYN01298,6.91,68.3,65.0,52.7,2,1,3,0,Middle,Graduate,Yes,Male,Placed
+SYN01299,7.49,71.9,69.4,67.6,2,1,4,1,Middle,Graduate,Yes,Female,Placed
+SYN01300,7.03,73.2,68.9,53.5,1,1,3,2,High,Graduate,Yes,Female,Not Placed
+SYN01301,7.73,66.7,88.5,65.6,1,0,4,1,Middle,Graduate,Yes,Male,Not Placed
+SYN01302,7.29,77.1,61.4,61.0,4,1,0,0,Low,Postgraduate,No,Male,Placed
+SYN01303,6.68,74.8,75.9,61.4,2,1,3,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01304,7.49,74.5,75.9,64.9,0,0,3,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN01305,7.46,73.3,70.6,63.1,2,1,3,1,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01306,5.66,62.5,67.2,44.0,2,0,0,2,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01307,8.79,86.7,84.7,93.9,3,2,3,0,Middle,Below Graduate,No,Male,Placed
+SYN01308,7.21,70.5,67.3,67.5,1,1,2,0,Low,Postgraduate,Yes,Female,Not Placed
+SYN01309,6.96,71.0,74.6,61.7,0,1,4,0,Low,Graduate,No,Male,Placed
+SYN01310,7.37,66.6,79.0,49.4,0,1,0,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01311,7.31,67.1,78.8,47.2,3,0,1,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN01312,8.5,93.2,83.9,94.7,2,2,0,0,Middle,Below Graduate,Yes,Male,Placed
+SYN01313,8.16,70.5,80.8,66.2,0,1,2,0,Low,Graduate,No,Female,Not Placed
+SYN01314,6.12,74.3,73.9,65.9,2,1,5,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01315,6.92,70.7,72.5,62.1,2,2,1,0,Middle,Graduate,No,Male,Not Placed
+SYN01316,7.03,80.7,70.6,64.0,1,1,2,0,Lower-Middle,Postgraduate,Yes,Male,Placed
+SYN01317,7.33,66.3,79.1,51.8,1,2,2,0,Middle,Graduate,Yes,Female,Not Placed
+SYN01318,6.98,68.7,71.0,50.8,0,0,1,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01319,7.86,77.7,76.0,58.8,3,1,2,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01320,7.31,76.1,59.4,48.8,2,1,2,0,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01321,7.38,78.4,74.8,74.7,2,2,1,0,Middle,Graduate,No,Male,Placed
+SYN01322,8.21,66.5,59.3,62.2,2,1,1,0,Low,Below Graduate,No,Female,Not Placed
+SYN01323,7.97,78.7,75.8,61.9,2,2,3,0,High,Below Graduate,Yes,Male,Placed
+SYN01324,6.17,77.2,66.2,54.2,1,0,3,1,High,Below Graduate,Yes,Female,Not Placed
+SYN01325,7.55,72.9,79.9,73.8,2,1,4,0,Middle,Graduate,Yes,Male,Placed
+SYN01326,6.1,65.5,76.2,,2,0,2,1,Lower-Middle,Below Graduate,No,Female,Placed
+SYN01327,6.83,68.6,70.3,61.8,3,3,2,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01328,6.34,69.1,78.8,42.7,0,0,2,2,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01329,6.06,82.0,68.0,58.7,1,1,0,1,Middle,Postgraduate,No,Female,Not Placed
+SYN01330,7.92,78.8,86.6,71.1,3,1,1,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01331,6.01,68.1,75.5,48.9,3,0,1,1,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01332,6.82,63.0,60.9,46.1,3,0,0,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01333,8.66,88.8,78.5,62.8,1,2,3,0,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01334,7.17,75.1,72.2,38.7,3,1,3,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN01335,6.84,69.4,70.9,51.1,2,0,1,1,Middle,Below Graduate,Yes,Male,Not Placed
+SYN01336,6.79,66.0,65.7,54.2,2,0,2,1,Middle,Below Graduate,No,Female,Placed
+SYN01337,7.22,74.5,76.2,60.5,3,2,1,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01338,7.22,73.1,74.1,55.4,1,2,1,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01339,7.12,84.1,86.4,59.9,3,2,4,0,Low,Graduate,Yes,Female,Not Placed
+SYN01340,7.73,76.6,70.8,62.4,3,0,1,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01341,7.69,59.3,76.3,57.7,2,2,0,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01342,6.34,79.6,70.4,53.1,1,1,2,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01343,6.13,61.9,54.4,60.3,0,2,2,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01344,8.14,82.0,76.1,85.4,3,1,3,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01345,8.11,90.4,74.2,86.5,2,0,4,0,Middle,Postgraduate,No,Male,Not Placed
+SYN01346,6.24,66.8,69.3,,0,1,0,1,Lower-Middle,Graduate,No,Female,Not Placed
+SYN01347,6.8,71.3,67.9,52.7,1,0,1,0,Low,Graduate,Yes,Female,Not Placed
+SYN01348,6.28,64.6,69.4,63.0,2,1,4,0,Middle,Graduate,Yes,Female,Placed
+SYN01349,5.81,54.4,52.7,43.5,0,0,2,0,Lower-Middle,Graduate,No,Female,Not Placed
+SYN01350,7.77,73.6,87.7,69.7,2,2,3,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01351,6.75,72.1,68.3,57.3,0,0,1,1,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01352,6.05,69.8,69.2,63.7,3,2,3,1,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01353,6.31,58.5,55.9,53.1,1,0,2,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01354,5.49,62.0,55.6,52.3,0,0,1,1,Middle,Postgraduate,Yes,Male,Not Placed
+SYN01355,7.62,62.8,84.3,52.2,0,2,1,0,High,Graduate,Yes,Female,Not Placed
+SYN01356,7.72,76.5,59.3,58.2,3,1,2,0,Middle,Postgraduate,Yes,Male,Placed
+SYN01357,6.32,67.2,66.0,47.6,2,1,3,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01358,7.07,91.4,69.7,53.6,2,0,1,1,Middle,Graduate,Yes,Male,Placed
+SYN01359,8.05,72.7,68.0,72.5,3,0,1,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01360,7.77,72.2,71.7,73.1,3,1,1,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01361,6.85,72.6,64.5,54.9,2,0,1,0,Middle,Graduate,Yes,Female,Placed
+SYN01362,6.8,64.9,65.1,63.1,1,0,1,0,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01363,7.42,75.5,54.2,55.6,1,0,3,0,Low,Postgraduate,No,Female,Not Placed
+SYN01364,6.53,63.3,59.0,29.6,1,1,2,2,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01365,7.19,68.8,73.7,75.0,3,2,2,1,Low,Below Graduate,Yes,Male,Placed
+SYN01366,6.38,55.9,54.9,38.2,1,0,1,0,Lower-Middle,Below Graduate,No,Female,Placed
+SYN01367,7.45,83.3,89.6,68.3,4,1,3,0,Middle,,Yes,Female,Placed
+SYN01368,7.32,82.4,68.2,58.1,2,3,0,0,High,Below Graduate,Yes,Female,Placed
+SYN01369,7.95,81.0,77.0,75.2,3,1,3,0,Low,Below Graduate,Yes,Female,Placed
+SYN01370,6.28,70.3,59.6,55.3,4,1,0,1,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01371,6.4,73.9,65.2,57.8,3,0,1,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01372,7.23,76.6,81.6,69.1,4,1,2,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01373,7.74,77.7,96.6,65.8,1,1,2,0,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01374,8.86,86.5,88.2,81.0,5,2,3,0,Low,Below Graduate,Yes,Male,Placed
+SYN01375,7.79,80.8,78.6,46.9,2,1,2,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN01376,8.48,91.1,97.1,94.3,2,2,2,0,Lower-Middle,Graduate,Yes,Male,Placed
+SYN01377,7.07,75.4,70.5,44.2,0,2,3,1,Lower-Middle,Below Graduate,Yes,Male,Placed
+SYN01378,8.34,80.4,91.4,69.0,3,1,3,1,Middle,Postgraduate,Yes,Male,Not Placed
+SYN01379,6.16,63.2,67.6,37.8,0,1,2,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN01380,6.69,74.6,74.3,58.1,2,2,3,0,Low,Below Graduate,Yes,Female,Placed
+SYN01381,4.5,53.0,53.5,34.4,0,0,0,2,Low,Below Graduate,Yes,Female,Not Placed
+SYN01382,5.8,72.4,51.6,42.9,3,3,4,2,Middle,Below Graduate,No,Male,Not Placed
+SYN01383,6.54,62.9,76.8,75.4,2,1,0,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01384,6.61,64.1,51.9,47.6,3,0,1,2,Middle,Postgraduate,Yes,Male,Placed
+SYN01385,7.63,76.1,64.1,60.5,1,0,2,0,Lower-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01386,7.8,71.0,78.5,68.8,4,0,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN01387,5.88,76.8,63.5,65.5,0,2,1,0,High,Below Graduate,Yes,Female,Not Placed
+SYN01388,5.31,59.9,62.2,57.5,1,2,0,0,Low,Graduate,No,Male,Not Placed
+SYN01389,6.57,66.1,67.1,44.5,1,0,3,2,Low,Below Graduate,Yes,Female,Not Placed
+SYN01390,7.02,75.4,63.5,43.3,1,1,0,1,Low,Below Graduate,No,Male,Not Placed
+SYN01391,6.91,82.1,68.1,63.2,1,1,3,1,High,Postgraduate,Yes,Male,Placed
+SYN01392,7.64,78.7,79.1,64.3,1,2,3,0,Middle,Graduate,Yes,Female,Placed
+SYN01393,6.67,74.2,69.4,47.2,0,3,1,0,Middle,Graduate,No,Female,Placed
+SYN01394,8.85,89.2,91.1,85.2,2,3,3,0,High,Graduate,Yes,Male,Placed
+SYN01395,6.9,78.2,56.5,44.1,1,0,1,0,Low,Below Graduate,No,Female,Not Placed
+SYN01396,8.42,92.7,84.8,87.0,4,2,1,0,High,Below Graduate,Yes,Male,Placed
+SYN01397,5.83,60.4,70.0,53.3,1,1,0,1,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01398,7.86,66.6,79.3,50.6,3,1,3,0,Middle,Below Graduate,Yes,Male,Placed
+SYN01399,8.17,86.1,75.5,68.3,1,0,3,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01400,8.59,81.9,76.7,67.5,2,0,2,0,Lower-Middle,Graduate,No,Female,Placed
+SYN01401,6.63,64.9,65.0,56.8,2,2,1,0,High,Postgraduate,Yes,Female,Placed
+SYN01402,8.13,79.0,70.2,64.3,2,2,2,0,Low,Below Graduate,Yes,Male,Placed
+SYN01403,7.82,78.6,69.1,54.3,1,1,1,0,High,Graduate,Yes,Female,Placed
+SYN01404,6.79,72.1,66.0,41.5,2,1,0,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01405,7.77,82.0,81.4,71.7,1,2,2,0,Middle,Graduate,No,Female,Placed
+SYN01406,8.77,88.1,84.6,83.1,2,0,3,1,High,Postgraduate,Yes,Male,Placed
+SYN01407,7.42,79.6,73.2,66.1,2,0,2,0,Low,Below Graduate,No,Female,Not Placed
+SYN01408,7.55,77.1,76.7,68.7,2,3,4,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN01409,8.2,77.2,84.6,61.8,1,1,1,0,Middle,,Yes,Male,Placed
+SYN01410,5.75,59.5,56.7,45.6,0,0,0,0,Middle,Below Graduate,No,Male,Not Placed
+SYN01411,6.74,82.5,69.9,87.9,1,1,2,1,Low,Below Graduate,Yes,Male,Placed
+SYN01412,5.49,64.6,58.8,59.4,1,2,2,1,Middle,Graduate,Yes,Male,Placed
+SYN01413,5.85,77.9,60.3,50.9,3,0,0,0,Middle,Below Graduate,Yes,Male,Not Placed
+SYN01414,9.3,99.0,91.9,79.1,3,2,3,0,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN01415,6.25,65.5,67.1,31.5,3,0,2,1,Low,Graduate,No,Male,Not Placed
+SYN01416,6.55,49.8,65.6,61.5,2,0,0,2,Lower-Middle,Graduate,No,Male,Not Placed
+SYN01417,8.34,91.1,91.1,79.8,2,2,2,0,Upper-Middle,Below Graduate,Yes,Male,Placed
+SYN01418,6.12,62.4,71.1,44.7,0,0,0,0,Low,Below Graduate,No,Male,Not Placed
+SYN01419,6.95,65.6,58.1,42.2,0,1,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN01420,8.52,83.3,89.0,63.3,1,1,1,0,High,Graduate,Yes,Male,Placed
+SYN01421,5.82,69.9,71.8,64.5,1,0,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN01422,5.45,67.3,54.5,42.0,2,0,3,2,Low,Below Graduate,No,Male,Not Placed
+SYN01423,7.84,79.7,78.9,72.2,3,1,2,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01424,7.38,76.5,55.6,56.4,4,1,0,0,Low,Below Graduate,No,Female,Not Placed
+SYN01425,9.3,89.7,94.2,85.6,2,2,3,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01426,6.0,67.7,70.9,56.7,3,1,1,1,Middle,Below Graduate,No,Female,Not Placed
+SYN01427,7.95,80.5,75.2,79.0,4,0,1,1,Middle,Below Graduate,No,Female,Not Placed
+SYN01428,7.97,90.8,81.6,60.7,2,1,3,0,Lower-Middle,Below Graduate,No,Male,Placed
+SYN01429,7.08,72.5,54.5,39.5,2,1,2,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01430,7.44,78.8,68.8,54.6,3,1,1,0,Middle,Below Graduate,No,Male,Placed
+SYN01431,7.59,74.7,71.2,74.0,2,1,0,1,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01432,6.46,68.6,56.9,67.5,1,0,0,1,Middle,Postgraduate,Yes,Female,Not Placed
+SYN01433,8.1,81.3,80.8,61.5,1,1,1,0,Upper-Middle,Graduate,Yes,Female,Placed
+SYN01434,7.5,70.3,78.9,52.0,0,1,1,0,Middle,Graduate,Yes,Female,Not Placed
+SYN01435,7.38,64.4,69.1,39.7,2,0,1,1,Lower-Middle,Graduate,Yes,Male,Not Placed
+SYN01436,7.33,68.8,69.6,68.3,1,1,1,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01437,6.91,71.1,73.4,55.8,0,1,2,0,Low,Below Graduate,Yes,Male,Not Placed
+SYN01438,7.57,78.5,72.4,88.4,2,1,2,0,Lower-Middle,,No,Male,Not Placed
+SYN01439,6.83,74.8,58.2,46.8,0,1,1,1,Low,Below Graduate,No,Male,Not Placed
+SYN01440,6.73,64.2,66.1,72.8,2,0,2,0,High,Below Graduate,Yes,Female,Not Placed
+SYN01441,6.82,68.7,68.3,65.4,2,1,1,1,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01442,7.71,73.1,74.9,50.3,1,0,0,0,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01443,7.35,73.3,66.5,57.3,1,0,1,0,Low,Graduate,No,Female,Placed
+SYN01444,7.03,72.6,75.2,70.5,0,0,1,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN01445,5.33,56.1,46.8,38.0,2,1,0,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01446,6.58,58.9,69.7,59.5,1,1,1,1,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01447,7.21,76.3,71.4,64.3,2,2,3,0,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01448,6.31,69.0,84.5,55.9,2,1,2,0,High,Graduate,Yes,Male,Placed
+SYN01449,9.55,84.7,84.1,77.8,2,1,3,0,Upper-Middle,Below Graduate,Yes,Female,Placed
+SYN01450,7.21,70.6,72.3,49.6,0,0,2,0,Low,Graduate,Yes,Male,Placed
+SYN01451,7.56,82.6,92.2,61.3,3,1,4,0,Middle,Postgraduate,Yes,Male,Not Placed
+SYN01452,7.36,62.1,67.4,56.3,2,2,0,1,Low,Graduate,Yes,Male,Not Placed
+SYN01453,7.02,70.4,73.0,42.9,1,1,1,1,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01454,6.03,72.2,56.3,48.2,1,0,3,1,Middle,Graduate,Yes,Female,Not Placed
+SYN01455,6.36,72.3,79.8,57.3,3,1,2,1,Lower-Middle,Below Graduate,Yes,Female,Placed
+SYN01456,6.08,68.5,55.0,38.0,2,0,1,1,Low,Below Graduate,Yes,Female,Not Placed
+SYN01457,6.08,72.2,70.6,54.0,1,2,2,0,Low,Below Graduate,Yes,Female,Placed
+SYN01458,5.11,52.5,47.6,29.0,0,1,0,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01459,6.41,64.5,63.3,65.0,0,1,0,1,Upper-Middle,Postgraduate,Yes,Female,Not Placed
+SYN01460,8.43,92.3,76.1,78.1,2,2,1,1,Upper-Middle,Graduate,Yes,Male,Placed
+SYN01461,8.02,90.4,90.2,78.5,4,2,2,0,High,Graduate,Yes,Male,Placed
+SYN01462,8.53,89.1,78.7,73.4,1,1,2,0,Low,Below Graduate,Yes,Female,Not Placed
+SYN01463,7.9,78.4,75.6,58.4,2,1,4,0,Middle,Postgraduate,Yes,Female,Placed
+SYN01464,7.78,86.4,84.7,73.5,1,0,1,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01465,7.07,68.6,65.5,49.1,1,2,1,0,Middle,Below Graduate,Yes,Male,Placed
+SYN01466,5.34,60.4,65.1,45.6,1,1,3,1,Lower-Middle,Below Graduate,No,Female,Placed
+SYN01467,8.42,81.4,85.8,63.1,1,2,3,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01468,6.46,79.9,76.0,61.4,3,2,2,2,Middle,Postgraduate,Yes,Male,Placed
+SYN01469,9.19,95.2,75.7,97.0,3,2,1,0,Low,Below Graduate,No,Female,Placed
+SYN01470,6.23,68.7,72.8,64.4,4,1,1,0,Lower-Middle,Postgraduate,Yes,Male,Not Placed
+SYN01471,9.58,95.2,87.5,96.0,1,4,1,0,Middle,Below Graduate,Yes,Female,Placed
+SYN01472,6.34,71.6,66.6,73.8,3,1,2,2,Low,Graduate,Yes,Female,Not Placed
+SYN01473,7.78,84.1,84.8,56.3,4,1,1,0,High,Below Graduate,No,Male,Placed
+SYN01474,8.75,83.7,75.5,67.9,2,1,4,0,Middle,Graduate,No,Male,Placed
+SYN01475,6.13,69.9,66.7,32.5,1,2,0,3,Upper-Middle,Graduate,Yes,Male,Not Placed
+SYN01476,6.05,70.0,59.7,60.4,0,0,0,0,Middle,Graduate,No,Female,Not Placed
+SYN01477,6.47,57.9,62.3,42.4,0,0,2,1,Middle,Below Graduate,Yes,Male,Not Placed
+SYN01478,5.16,69.6,63.6,42.1,1,2,2,0,Middle,Postgraduate,Yes,Male,Placed
+SYN01479,7.37,78.1,85.9,65.4,2,1,0,0,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN01480,6.72,82.4,65.5,61.3,0,1,0,0,Middle,Graduate,Yes,Female,Placed
+SYN01481,7.49,65.2,81.1,47.2,4,2,1,0,Lower-Middle,Graduate,Yes,Female,Placed
+SYN01482,8.08,75.4,80.6,54.8,2,0,3,0,Low,Graduate,No,Male,Placed
+SYN01483,5.98,55.3,54.7,39.6,1,0,3,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01484,8.09,76.4,73.1,84.9,2,0,2,0,Low,Graduate,No,Male,Placed
+SYN01485,5.67,67.5,59.0,55.9,1,1,1,0,Lower-Middle,Below Graduate,Yes,Female,Not Placed
+SYN01486,7.66,86.9,76.0,58.7,1,1,1,0,Low,Graduate,Yes,Male,Not Placed
+SYN01487,8.38,80.2,72.6,47.5,2,1,3,1,Middle,Below Graduate,Yes,Male,Placed
+SYN01488,8.79,78.2,88.8,83.7,2,0,4,0,Low,Below Graduate,No,Male,Not Placed
+SYN01489,7.27,62.6,67.1,52.2,2,1,3,0,Middle,Graduate,Yes,Male,Not Placed
+SYN01490,4.79,48.3,50.8,26.3,1,2,1,2,Upper-Middle,Graduate,Yes,Female,Not Placed
+SYN01491,7.06,72.8,75.6,,2,0,1,1,Upper-Middle,Postgraduate,Yes,Male,Placed
+SYN01492,8.13,71.0,68.3,49.3,2,0,2,0,Lower-Middle,Postgraduate,No,Male,Placed
+SYN01493,5.59,64.8,64.2,40.0,1,0,3,2,Middle,Below Graduate,No,Male,Not Placed
+SYN01494,6.78,61.9,80.0,59.5,1,1,1,0,Middle,Below Graduate,Yes,Female,Not Placed
+SYN01495,7.18,69.8,69.1,45.2,3,1,0,0,Lower-Middle,Below Graduate,Yes,Male,Not Placed
+SYN01496,5.76,69.8,62.4,46.9,1,2,1,0,Middle,Graduate,Yes,Male,Not Placed
+SYN01497,7.15,88.3,77.9,65.2,2,1,1,0,Lower-Middle,Below Graduate,No,Male,Not Placed
+SYN01498,7.5,60.9,59.3,73.8,1,1,0,1,High,Postgraduate,Yes,Female,Not Placed
+SYN01499,6.84,63.9,69.3,40.2,1,1,2,1,Low,Graduate,No,Male,Not Placed
